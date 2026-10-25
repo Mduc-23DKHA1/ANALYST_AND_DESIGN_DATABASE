@@ -1,0 +1,10 @@
+P001,Trễ hạn,5000,Số tiền = số ngày trễ * 5000
+P002,Mất tài liệu,200000,Bồi thường 200000 hoặc theo giá trị tài liệu
+P003,Hư hỏng tài liệu,100000,Bồi thường 100000 hoặc theo mức độ hư hỏng
+P004,Mất thẻ thư viện,30000,Phí cấp lại thẻ thư viện
+P005,Trả tài liệu không đúng nơi quy định,10000,Phí xử lý mỗi lần vi phạm
+P006,Cho người khác mượn thẻ thư viện,50000,Phạt 50000 mỗi lần vi phạm
+P007,Không trả tài liệu khi có yêu cầu thu hồi,50000,Phạt 50000 mỗi lần vi phạm
+P008,Tẩy xóa hoặc ghi chú lên tài liệu,150000,Bồi thường theo mức độ hư hỏng
+P009,Làm rách tài liệu,100000,Bồi thường theo mức độ hư hỏng
+P010,Vi phạm quy định sử dụng thư viện,20000,Phạt 20000 mỗi lần vi phạm

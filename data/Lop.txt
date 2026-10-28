@@ -1,0 +1,54 @@
+-- Nguồn: 1_Lop.csv
+-- Bảng: Lop
+-- Ô CSV rỗng được chuyển thành NULL.
+
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CNTT2022_01', N'Lớp CNTT Khóa 2022 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KHDL2022_02', N'Lớp KHDL Khóa 2022 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KT2022_03', N'Lớp KT Khóa 2022 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'QTKD2022_04', N'Lớp QTKD Khóa 2022 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NNA2022_05', N'Lớp NNA Khóa 2022 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'DTVT2022_01', N'Lớp DTVT Khóa 2022 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CK2022_02', N'Lớp CK Khóa 2022 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'XD2022_03', N'Lớp XD Khóa 2022 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NH2022_04', N'Lớp NH Khóa 2022 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'LUAT2022_05', N'Lớp LUAT Khóa 2022 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CNTT2023_01', N'Lớp CNTT Khóa 2023 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KHDL2023_02', N'Lớp KHDL Khóa 2023 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KT2023_03', N'Lớp KT Khóa 2023 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'QTKD2023_04', N'Lớp QTKD Khóa 2023 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NNA2023_05', N'Lớp NNA Khóa 2023 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'DTVT2023_01', N'Lớp DTVT Khóa 2023 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CK2023_02', N'Lớp CK Khóa 2023 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'XD2023_03', N'Lớp XD Khóa 2023 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NH2023_04', N'Lớp NH Khóa 2023 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'LUAT2023_05', N'Lớp LUAT Khóa 2023 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CNTT2024_01', N'Lớp CNTT Khóa 2024 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KHDL2024_02', N'Lớp KHDL Khóa 2024 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KT2024_03', N'Lớp KT Khóa 2024 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'QTKD2024_04', N'Lớp QTKD Khóa 2024 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NNA2024_05', N'Lớp NNA Khóa 2024 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'DTVT2024_01', N'Lớp DTVT Khóa 2024 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CK2024_02', N'Lớp CK Khóa 2024 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'XD2024_03', N'Lớp XD Khóa 2024 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NH2024_04', N'Lớp NH Khóa 2024 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'LUAT2024_05', N'Lớp LUAT Khóa 2024 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CNTT2025_01', N'Lớp CNTT Khóa 2025 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KHDL2025_02', N'Lớp KHDL Khóa 2025 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KT2025_03', N'Lớp KT Khóa 2025 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'QTKD2025_04', N'Lớp QTKD Khóa 2025 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NNA2025_05', N'Lớp NNA Khóa 2025 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'DTVT2025_01', N'Lớp DTVT Khóa 2025 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CK2025_02', N'Lớp CK Khóa 2025 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'XD2025_03', N'Lớp XD Khóa 2025 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NH2025_04', N'Lớp NH Khóa 2025 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'LUAT2025_05', N'Lớp LUAT Khóa 2025 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CNTT2026_01', N'Lớp CNTT Khóa 2026 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KHDL2026_02', N'Lớp KHDL Khóa 2026 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'KT2026_03', N'Lớp KT Khóa 2026 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'QTKD2026_04', N'Lớp QTKD Khóa 2026 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NNA2026_05', N'Lớp NNA Khóa 2026 - Nhóm 5');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'DTVT2026_01', N'Lớp DTVT Khóa 2026 - Nhóm 1');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'CK2026_02', N'Lớp CK Khóa 2026 - Nhóm 2');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'XD2026_03', N'Lớp XD Khóa 2026 - Nhóm 3');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'NH2026_04', N'Lớp NH Khóa 2026 - Nhóm 4');
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (N'LUAT2026_05', N'Lớp LUAT Khóa 2026 - Nhóm 5');

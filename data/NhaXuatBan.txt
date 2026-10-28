@@ -1,0 +1,54 @@
+-- Nguồn: 1_NhaXuatBan.csv
+-- Bảng: NhaXuatBan
+-- Ô CSV rỗng được chuyển thành NULL.
+
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB001', N'NXB Giáo Dục Việt Nam');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB002', N'NXB Trẻ');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB003', N'NXB Kim Đồng');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB004', N'NXB Đại Học Quốc Gia TP.HCM');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB005', N'NXB Đại Học Quốc Gia Hà Nội');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB006', N'NXB Khoa Học và Kỹ Thuật');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB007', N'NXB Thống Kê');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB008', N'NXB Thông Tin và Truyền Thông');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB009', N'NXB Lao Động');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB010', N'NXB Hội Nhà Văn');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB011', N'NXB Văn Học');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB012', N'NXB Thế Giới');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB013', N'NXB Phụ Nữ Việt Nam');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB014', N'NXB Tổng Hợp TP.HCM');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB015', N'NXB Chính Trị Quốc Gia Sự Thật');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB016', N'NXB Xây Dựng');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB017', N'NXB Giao Thông Vận Tải');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB018', N'NXB Nông Nghiệp');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB019', N'NXB Y Học');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB020', N'NXB Tư Pháp');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB021', N'NXB Tài Chính');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB022', N'NXB Công Thương');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB023', N'NXB Đại Học Kinh Tế Quốc Dân');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB024', N'NXB Đại Học Bách Khoa Hà Nội');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB025', N'NXB Đại Học Sư Phạm');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB026', N'NXB Đại Học Huế');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB027', N'NXB Đại Học Cần Thơ');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB028', N'NXB Đại Học Thái Nguyên');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB029', N'NXB Văn Hóa Dân Tộc');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB030', N'NXB Văn Hóa Văn Nghệ');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB031', N'NXB Thanh Niên');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB032', N'NXB Hồng Đức');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB033', N'NXB Dân Trí');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB034', N'NXB Tri Thức');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB035', N'NXB Thời Đại');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB036', N'NXB Công An Nhân Dân');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB037', N'NXB Quân Đội Nhân Dân');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB038', N'NXB Mỹ Thuật');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB039', N'NXB Âm Nhạc');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB040', N'NXB Sân Khấu');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB041', N'NXB Điện Ảnh');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB042', N'NXB Thể Thao và Du Lịch');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB043', N'NXB Tài Nguyên Môi Trường và Bản Đồ');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB044', N'NXB Khoa Học Tự Nhiên và Công Nghệ');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB045', N'NXB Khoa Học Xã Hội');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB046', N'NXB Tôn Giáo');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB047', N'NXB Thuận Hóa');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB048', N'NXB Đà Nẵng');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB049', N'NXB Hải Phòng');
+INSERT INTO [NhaXuatBan] ([MaNXB], [TenNXB]) VALUES (N'NXB050', N'NXB Nghệ An');

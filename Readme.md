@@ -3,11 +3,12 @@ Thứ tự ưu tiên:
 2. SinhVien, Sach, TheThuVien, PhieuMuon, PhieuGiaHan
 3. BanSaoSach, ChiTietGiaHan, ChiTietPhieuMuon
 4. PhieuTra
-5. PhieuPhat, ChiTietPhieuTra
-6. ChiTietPhat
+5. ChiTietPhieuTra
+6. PhieuPhat
+7. ChiTietPhat
 
 ## Prior 1)
-- Lop()
+- Lop(**MaLop**, TenLop)
 - NhaXuatBan(**MaNXB**, TenNXB)
 - TheLoai(**MaTL**, TenTL)
 - NoiQuyPhat(**MaNQP**, MucPhat, TenViPham)
@@ -28,8 +29,10 @@ Thứ tự ưu tiên:
 - PhieuTra(**MaPT**, NgayTiepNhan)
 
 ## Prior 5)
-- PhieuPhat(**MaPP**, NgayLap, TongThanhToan, NgayThanhToan, #MaPT)
 - ChiTietPhieuTra(**#MaPM**, **#MaVach**, **#MaPT**, TinhTrang)
 
 ## Prior 6)
+- PhieuPhat(**MaPP**, NgayLap, TongThanhToan, NgayThanhToan, #MaPT)
+
+## Prior 7)
 - ChiTietPhat(**#MaNQP**, **#MaPP**, **#MaVach**)

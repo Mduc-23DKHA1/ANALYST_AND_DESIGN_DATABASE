@@ -1,0 +1,14 @@
+-- Nguồn: 1_NoiQuyPhat.csv
+-- Bảng: NoiQuyPhat
+-- Ô CSV rỗng được chuyển thành NULL.
+
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP01', N'20000', N'Trả sách trễ hạn từ 1 đến 7 ngày');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP02', N'50000', N'Trả sách trễ hạn từ 8 đến 30 ngày');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP03', N'100000', N'Trả sách trễ hạn trên 30 ngày');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP04', N'30000', N'Làm bẩn hoặc viết vẽ lên trang sách');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP05', N'50000', N'Làm rách trang sách (dưới 5 trang)');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP06', N'80000', N'Làm hư hỏng bìa sách hoặc gáy sách');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP07', N'40000', N'Làm mất hoặc rách tem mã vạch sách');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP08', N'120000', N'Làm ướt hoặc ẩm mốc sách');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP09', N'150000', N'Làm hư hỏng nặng không thể phục hồi');
+INSERT INTO [NoiQuyPhat] ([MaNQP], [MucPhat], [TenViPham]) VALUES (N'NQP10', N'250000', N'Làm mất sách');

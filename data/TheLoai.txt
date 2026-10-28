@@ -1,29 +1,26 @@
--- Nguồn: 1_TheLoai.csv
--- Bảng: TheLoai
--- Ô CSV rỗng được chuyển thành NULL.
-
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL001', N'Khoa học máy tính & AI');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL002', N'Khoa học dữ liệu & Thống kê');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL003', N'Toán ứng dụng');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL004', N'Kinh tế học');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL005', N'Quản trị kinh doanh');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL006', N'Tài chính - Ngân hàng');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL007', N'Kế toán - Kiểm toán');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL008', N'Luật học');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL009', N'Ngoại ngữ - Tiếng Anh');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL010', N'Ngoại ngữ - Tiếng Đức');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL011', N'Ngoại ngữ - Tiếng Nhật');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL012', N'Văn học Việt Nam');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL013', N'Văn học nước ngoài');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL014', N'Lịch sử - Địa lý');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL015', N'Triết học - Chính trị');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL016', N'Tâm lý học - Kỹ năng sống');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL017', N'Vật lý - Điện tử');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL018', N'Hóa học - Sinh học');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL019', N'Kỹ thuật cơ khí');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL020', N'Kỹ thuật xây dựng');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL021', N'Y học - Sức khỏe');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL022', N'Môi trường & Phát triển bền vững');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL023', N'Văn hóa - Nghệ thuật');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL024', N'Báo chí - Truyền thông');
-INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES (N'TL025', N'Tài liệu tham khảo chung');
+INSERT INTO [TheLoai] ([MaTL], [TenTL]) VALUES 
+(N'TL001', N'Khoa học máy tính & AI'),
+(N'TL002', N'Khoa học dữ liệu & Thống kê'),
+(N'TL003', N'Toán ứng dụng'),
+(N'TL004', N'Kinh tế học'),
+(N'TL005', N'Quản trị kinh doanh'),
+(N'TL006', N'Tài chính - Ngân hàng'),
+(N'TL007', N'Kế toán - Kiểm toán'),
+(N'TL008', N'Luật học'),
+(N'TL009', N'Ngoại ngữ - Tiếng Anh'),
+(N'TL010', N'Ngoại ngữ - Tiếng Đức'),
+(N'TL011', N'Ngoại ngữ - Tiếng Nhật'),
+(N'TL012', N'Văn học Việt Nam'),
+(N'TL013', N'Văn học nước ngoài'),
+(N'TL014', N'Lịch sử - Địa lý'),
+(N'TL015', N'Triết học - Chính trị'),
+(N'TL016', N'Tâm lý học - Kỹ năng sống'),
+(N'TL017', N'Vật lý - Điện tử'),
+(N'TL018', N'Hóa học - Sinh học'),
+(N'TL019', N'Kỹ thuật cơ khí'),
+(N'TL020', N'Kỹ thuật xây dựng'),
+(N'TL021', N'Y học - Sức khỏe'),
+(N'TL022', N'Môi trường & Phát triển bền vững'),
+(N'TL023', N'Văn hóa - Nghệ thuật'),
+(N'TL024', N'Báo chí - Truyền thông'),
+(N'TL025', N'Tài liệu tham khảo chung');

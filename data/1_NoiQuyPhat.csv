@@ -1,0 +1,11 @@
+﻿MaNQP,MucPhat,TenViPham
+NQP01,20000,Trả sách trễ hạn từ 1 đến 7 ngày
+NQP02,50000,Trả sách trễ hạn từ 8 đến 30 ngày
+NQP03,100000,Trả sách trễ hạn trên 30 ngày
+NQP04,30000,Làm bẩn hoặc viết vẽ lên trang sách
+NQP05,50000,Làm rách trang sách (dưới 5 trang)
+NQP06,80000,Làm hư hỏng bìa sách hoặc gáy sách
+NQP07,40000,Làm mất hoặc rách tem mã vạch sách
+NQP08,120000,Làm ướt hoặc ẩm mốc sách
+NQP09,150000,Làm hư hỏng nặng không thể phục hồi
+NQP10,250000,Làm mất sách

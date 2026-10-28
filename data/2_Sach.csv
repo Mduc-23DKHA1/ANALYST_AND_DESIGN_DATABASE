@@ -1,0 +1,2001 @@
+﻿MaS,TenSach,SoLuong,MaTL,MaNXB
+S0001,Nhập môn Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),14,TL001,NXB018
+S0002,Lý thuyết Quản trị học (Tập 2 - Ấn bản 2021),12,TL023,NXB026
+S0003,Thực hành Mạng máy tính (Tập 3 - Ấn bản 2022),8,TL015,NXB044
+S0004,Chuyên đề Giải tích hàm (Tập 1 - Ấn bản 2023),8,TL011,NXB024
+S0005,Chuyên đề Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),14,TL023,NXB007
+S0006,Thực hành Hệ điều hành (Tập 3 - Ấn bản 2025),9,TL001,NXB044
+S0007,Thiết kế Mạng máy tính (Tập 1 - Ấn bản 2020),14,TL017,NXB014
+S0008,Ứng dụng Văn học hiện đại (Tập 2 - Ấn bản 2021),8,TL015,NXB013
+S0009,Thực hành Marketing căn bản (Tập 3 - Ấn bản 2022),15,TL014,NXB026
+S0010,Thực hành Mạng máy tính (Tập 1 - Ấn bản 2023),9,TL009,NXB043
+S0011,Giáo trình Văn học hiện đại (Tập 2 - Ấn bản 2024),14,TL023,NXB043
+S0012,Cẩm nang Tiếng Đức B1 (Tập 3 - Ấn bản 2025),7,TL004,NXB002
+S0013,Giáo trình Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),12,TL009,NXB046
+S0014,Thiết kế Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),10,TL005,NXB047
+S0015,Ứng dụng Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),12,TL003,NXB023
+S0016,Chuyên đề Xác suất thống kê (Tập 1 - Ấn bản 2023),9,TL018,NXB028
+S0017,Nhập môn Học máy thống kê (Tập 2 - Ấn bản 2024),11,TL009,NXB001
+S0018,Thiết kế Nguyên lý kế toán (Tập 3 - Ấn bản 2025),14,TL004,NXB032
+S0019,Thực hành Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL007,NXB012
+S0020,Ứng dụng Giải tích hàm (Tập 2 - Ấn bản 2021),10,TL001,NXB046
+S0021,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),14,TL016,NXB050
+S0022,Nhập môn Kinh tế vi mô (Tập 1 - Ấn bản 2023),8,TL025,NXB035
+S0023,Thực hành Kinh tế vi mô (Tập 2 - Ấn bản 2024),10,TL025,NXB026
+S0024,Ứng dụng Quản trị học (Tập 3 - Ấn bản 2025),13,TL006,NXB031
+S0025,Thực hành Toán cao cấp (Tập 1 - Ấn bản 2020),15,TL006,NXB012
+S0026,Thiết kế Mạng máy tính (Tập 2 - Ấn bản 2021),8,TL014,NXB029
+S0027,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),10,TL022,NXB005
+S0028,Thiết kế Mạng máy tính (Tập 1 - Ấn bản 2023),10,TL005,NXB035
+S0029,Cẩm nang Marketing căn bản (Tập 2 - Ấn bản 2024),7,TL011,NXB007
+S0030,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2025),8,TL001,NXB016
+S0031,Giáo trình Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),7,TL020,NXB032
+S0032,Thiết kế Giải tích hàm (Tập 2 - Ấn bản 2021),7,TL010,NXB017
+S0033,Ứng dụng Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),14,TL001,NXB021
+S0034,Lý thuyết Quản trị học (Tập 1 - Ấn bản 2023),8,TL021,NXB027
+S0035,Cơ sở Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),8,TL004,NXB040
+S0036,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),10,TL008,NXB047
+S0037,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2020),8,TL001,NXB015
+S0038,Chuyên đề Luật dân sự (Tập 2 - Ấn bản 2021),10,TL008,NXB023
+S0039,Thiết kế Marketing căn bản (Tập 3 - Ấn bản 2022),6,TL014,NXB008
+S0040,Nhập môn Nguyên lý kế toán (Tập 1 - Ấn bản 2023),8,TL024,NXB025
+S0041,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2024),6,TL017,NXB011
+S0042,Giáo trình Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),12,TL009,NXB021
+S0043,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),13,TL025,NXB010
+S0044,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),11,TL006,NXB050
+S0045,Cẩm nang Đại số tuyến tính (Tập 3 - Ấn bản 2022),10,TL001,NXB009
+S0046,Giáo trình Marketing căn bản (Tập 1 - Ấn bản 2023),12,TL023,NXB048
+S0047,Nhập môn Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),8,TL023,NXB001
+S0048,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2025),14,TL009,NXB022
+S0049,Nhập môn Mạng máy tính (Tập 1 - Ấn bản 2020),15,TL001,NXB006
+S0050,Giáo trình Quản trị học (Tập 2 - Ấn bản 2021),6,TL014,NXB030
+S0051,Ứng dụng Xác suất thống kê (Tập 3 - Ấn bản 2022),8,TL024,NXB034
+S0052,Giáo trình Hệ điều hành (Tập 1 - Ấn bản 2023),9,TL011,NXB013
+S0053,Thực hành Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),13,TL008,NXB022
+S0054,Nhập môn Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),9,TL023,NXB006
+S0055,Cơ sở Kinh tế vi mô (Tập 1 - Ấn bản 2020),13,TL012,NXB041
+S0056,Cẩm nang Tiếng Đức B1 (Tập 2 - Ấn bản 2021),13,TL006,NXB046
+S0057,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),12,TL017,NXB024
+S0058,Thực hành Toán cao cấp (Tập 1 - Ấn bản 2023),9,TL011,NXB021
+S0059,Lý thuyết Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),6,TL010,NXB039
+S0060,Ứng dụng Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),9,TL008,NXB023
+S0061,Thực hành Luật dân sự (Tập 1 - Ấn bản 2020),15,TL012,NXB005
+S0062,Nhập môn Toán cao cấp (Tập 2 - Ấn bản 2021),5,TL021,NXB007
+S0063,Thiết kế Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),12,TL004,NXB003
+S0064,Nhập môn Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),6,TL021,NXB013
+S0065,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),11,TL021,NXB012
+S0066,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),15,TL013,NXB006
+S0067,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),6,TL003,NXB034
+S0068,Nhập môn Tiếng Đức B1 (Tập 2 - Ấn bản 2021),15,TL020,NXB015
+S0069,Thiết kế Mạng máy tính (Tập 3 - Ấn bản 2022),9,TL004,NXB047
+S0070,Phân tích Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),14,TL008,NXB018
+S0071,Lý thuyết Toán cao cấp (Tập 2 - Ấn bản 2024),11,TL005,NXB049
+S0072,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL022,NXB003
+S0073,Ứng dụng Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),9,TL002,NXB022
+S0074,Phân tích Tiếng Đức B1 (Tập 2 - Ấn bản 2021),10,TL025,NXB035
+S0075,Giáo trình Học máy thống kê (Tập 3 - Ấn bản 2022),6,TL008,NXB028
+S0076,Thiết kế Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),14,TL024,NXB041
+S0077,Thực hành Giải tích hàm (Tập 2 - Ấn bản 2024),5,TL005,NXB042
+S0078,Giáo trình Kinh tế vi mô (Tập 3 - Ấn bản 2025),5,TL016,NXB012
+S0079,Giáo trình Luật dân sự (Tập 1 - Ấn bản 2020),12,TL021,NXB001
+S0080,Lý thuyết Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),7,TL015,NXB036
+S0081,Ứng dụng Luật dân sự (Tập 3 - Ấn bản 2022),15,TL019,NXB030
+S0082,Nhập môn Mạng máy tính (Tập 1 - Ấn bản 2023),7,TL013,NXB023
+S0083,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),13,TL011,NXB037
+S0084,Cẩm nang Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),10,TL016,NXB028
+S0085,Cẩm nang Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),8,TL018,NXB049
+S0086,Ứng dụng Giải tích hàm (Tập 2 - Ấn bản 2021),8,TL025,NXB005
+S0087,Thực hành Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),11,TL015,NXB036
+S0088,Phân tích Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),10,TL006,NXB047
+S0089,Cẩm nang Mạng máy tính (Tập 2 - Ấn bản 2024),6,TL008,NXB010
+S0090,Phân tích Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),13,TL004,NXB005
+S0091,Cẩm nang Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),6,TL021,NXB014
+S0092,Ứng dụng Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),12,TL016,NXB024
+S0093,Thực hành Học máy thống kê (Tập 3 - Ấn bản 2022),8,TL021,NXB028
+S0094,Phân tích Marketing căn bản (Tập 1 - Ấn bản 2023),14,TL011,NXB021
+S0095,Nhập môn Hệ điều hành (Tập 2 - Ấn bản 2024),5,TL020,NXB045
+S0096,Lý thuyết Quản trị học (Tập 3 - Ấn bản 2025),5,TL002,NXB040
+S0097,Cơ sở Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),13,TL022,NXB012
+S0098,Thiết kế Luật dân sự (Tập 2 - Ấn bản 2021),8,TL004,NXB020
+S0099,Ứng dụng Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),5,TL014,NXB032
+S0100,Lý thuyết Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),7,TL011,NXB038
+S0101,Cơ sở Kinh tế vi mô (Tập 2 - Ấn bản 2024),7,TL004,NXB040
+S0102,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),11,TL003,NXB042
+S0103,Ứng dụng Văn học hiện đại (Tập 1 - Ấn bản 2020),10,TL024,NXB021
+S0104,Nhập môn Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),12,TL022,NXB017
+S0105,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL025,NXB001
+S0106,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),5,TL005,NXB044
+S0107,Lý thuyết Kinh tế vi mô (Tập 2 - Ấn bản 2024),7,TL006,NXB028
+S0108,Cẩm nang Giải tích hàm (Tập 3 - Ấn bản 2025),13,TL009,NXB002
+S0109,Chuyên đề Đại số tuyến tính (Tập 1 - Ấn bản 2020),8,TL004,NXB017
+S0110,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),15,TL007,NXB039
+S0111,Ứng dụng Giải tích hàm (Tập 3 - Ấn bản 2022),15,TL013,NXB014
+S0112,Giáo trình Luật dân sự (Tập 1 - Ấn bản 2023),7,TL010,NXB014
+S0113,Chuyên đề Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),9,TL012,NXB044
+S0114,Thực hành Đại số tuyến tính (Tập 3 - Ấn bản 2025),12,TL010,NXB048
+S0115,Thực hành Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),5,TL011,NXB018
+S0116,Nhập môn Văn học hiện đại (Tập 2 - Ấn bản 2021),6,TL011,NXB040
+S0117,Thiết kế Xác suất thống kê (Tập 3 - Ấn bản 2022),11,TL022,NXB034
+S0118,Giáo trình Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),5,TL006,NXB043
+S0119,Chuyên đề Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL006,NXB001
+S0120,Chuyên đề Học máy thống kê (Tập 3 - Ấn bản 2025),9,TL020,NXB042
+S0121,Nhập môn Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),14,TL006,NXB018
+S0122,Phân tích Giải tích hàm (Tập 2 - Ấn bản 2021),12,TL012,NXB048
+S0123,Nhập môn Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),10,TL023,NXB034
+S0124,Nhập môn Học máy thống kê (Tập 1 - Ấn bản 2023),7,TL014,NXB023
+S0125,Nhập môn Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),11,TL018,NXB049
+S0126,Giáo trình Văn học hiện đại (Tập 3 - Ấn bản 2025),7,TL025,NXB016
+S0127,Cẩm nang Giải tích hàm (Tập 1 - Ấn bản 2020),9,TL023,NXB019
+S0128,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),11,TL019,NXB037
+S0129,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2022),6,TL010,NXB006
+S0130,Giáo trình Tiếng Đức B1 (Tập 1 - Ấn bản 2023),14,TL010,NXB024
+S0131,Giáo trình Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),8,TL007,NXB017
+S0132,Nhập môn Xác suất thống kê (Tập 3 - Ấn bản 2025),6,TL010,NXB048
+S0133,Giáo trình Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL014,NXB016
+S0134,Thiết kế Toán cao cấp (Tập 2 - Ấn bản 2021),7,TL005,NXB039
+S0135,Nhập môn Nguyên lý kế toán (Tập 3 - Ấn bản 2022),13,TL025,NXB048
+S0136,Cơ sở Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),15,TL022,NXB041
+S0137,Thiết kế Nguyên lý kế toán (Tập 2 - Ấn bản 2024),10,TL011,NXB006
+S0138,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),5,TL007,NXB016
+S0139,Phân tích Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),14,TL020,NXB009
+S0140,Lý thuyết Luật dân sự (Tập 2 - Ấn bản 2021),12,TL018,NXB029
+S0141,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),11,TL011,NXB004
+S0142,Nhập môn Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),5,TL020,NXB026
+S0143,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL025,NXB038
+S0144,Thiết kế Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),7,TL003,NXB026
+S0145,Lý thuyết Văn học hiện đại (Tập 1 - Ấn bản 2020),7,TL007,NXB014
+S0146,Cơ sở Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),11,TL004,NXB035
+S0147,Thực hành Xác suất thống kê (Tập 3 - Ấn bản 2022),10,TL019,NXB049
+S0148,Phân tích Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),15,TL021,NXB043
+S0149,Phân tích Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),6,TL018,NXB024
+S0150,Phân tích Xác suất thống kê (Tập 3 - Ấn bản 2025),9,TL011,NXB008
+S0151,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2020),10,TL014,NXB040
+S0152,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2021),6,TL010,NXB025
+S0153,Thực hành Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),5,TL014,NXB004
+S0154,Ứng dụng Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),8,TL004,NXB015
+S0155,Cơ sở Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),8,TL023,NXB016
+S0156,Thiết kế Xác suất thống kê (Tập 3 - Ấn bản 2025),8,TL012,NXB011
+S0157,Cơ sở Kinh tế vi mô (Tập 1 - Ấn bản 2020),5,TL012,NXB028
+S0158,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),7,TL002,NXB007
+S0159,Ứng dụng Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),11,TL006,NXB050
+S0160,Giáo trình Giải tích hàm (Tập 1 - Ấn bản 2023),8,TL005,NXB038
+S0161,Nhập môn Kinh tế vi mô (Tập 2 - Ấn bản 2024),6,TL019,NXB024
+S0162,Thực hành Quản trị học (Tập 3 - Ấn bản 2025),12,TL021,NXB031
+S0163,Giáo trình Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),15,TL015,NXB004
+S0164,Thiết kế Quản trị học (Tập 2 - Ấn bản 2021),5,TL010,NXB037
+S0165,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),13,TL007,NXB035
+S0166,Nhập môn Tiếng Đức B1 (Tập 1 - Ấn bản 2023),9,TL019,NXB006
+S0167,Nhập môn Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),6,TL008,NXB046
+S0168,Phân tích Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),8,TL015,NXB033
+S0169,Phân tích Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),7,TL023,NXB032
+S0170,Giáo trình Quản trị học (Tập 2 - Ấn bản 2021),11,TL004,NXB046
+S0171,Cẩm nang Kinh tế vi mô (Tập 3 - Ấn bản 2022),10,TL013,NXB038
+S0172,Nhập môn Luật dân sự (Tập 1 - Ấn bản 2023),15,TL005,NXB035
+S0173,Giáo trình Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL011,NXB017
+S0174,Cơ sở Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),13,TL016,NXB032
+S0175,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),8,TL020,NXB014
+S0176,Ứng dụng Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),7,TL018,NXB019
+S0177,Thiết kế Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),11,TL015,NXB024
+S0178,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2023),10,TL025,NXB039
+S0179,Giáo trình Marketing căn bản (Tập 2 - Ấn bản 2024),9,TL001,NXB011
+S0180,Nhập môn Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),14,TL008,NXB007
+S0181,Thiết kế Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL004,NXB045
+S0182,Cẩm nang Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),9,TL009,NXB024
+S0183,Thiết kế Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),13,TL019,NXB024
+S0184,Thực hành Luật dân sự (Tập 1 - Ấn bản 2023),8,TL007,NXB014
+S0185,Ứng dụng Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),5,TL015,NXB024
+S0186,Ứng dụng Văn học hiện đại (Tập 3 - Ấn bản 2025),14,TL003,NXB011
+S0187,Cơ sở Giải tích hàm (Tập 1 - Ấn bản 2020),9,TL012,NXB008
+S0188,Phân tích Học máy thống kê (Tập 2 - Ấn bản 2021),5,TL023,NXB044
+S0189,Thiết kế Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),5,TL002,NXB015
+S0190,Nhập môn Nguyên lý kế toán (Tập 1 - Ấn bản 2023),5,TL019,NXB042
+S0191,Thiết kế Hệ điều hành (Tập 2 - Ấn bản 2024),5,TL024,NXB002
+S0192,Chuyên đề Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),12,TL007,NXB024
+S0193,Phân tích Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),6,TL011,NXB045
+S0194,Cẩm nang Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),13,TL019,NXB010
+S0195,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),11,TL008,NXB032
+S0196,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),15,TL013,NXB017
+S0197,Cẩm nang Học máy thống kê (Tập 2 - Ấn bản 2024),7,TL009,NXB010
+S0198,Giáo trình Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),13,TL002,NXB022
+S0199,Cơ sở Quản trị học (Tập 1 - Ấn bản 2020),8,TL018,NXB006
+S0200,Chuyên đề Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),11,TL015,NXB027
+S0201,Giáo trình Luật dân sự (Tập 3 - Ấn bản 2022),7,TL023,NXB020
+S0202,Cơ sở Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),9,TL011,NXB001
+S0203,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2024),8,TL024,NXB017
+S0204,Thiết kế Học máy thống kê (Tập 3 - Ấn bản 2025),10,TL015,NXB001
+S0205,Cơ sở Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),13,TL021,NXB037
+S0206,Cơ sở Xác suất thống kê (Tập 2 - Ấn bản 2021),9,TL018,NXB015
+S0207,Chuyên đề Tiếng Đức B1 (Tập 3 - Ấn bản 2022),5,TL014,NXB001
+S0208,Thiết kế Nguyên lý kế toán (Tập 1 - Ấn bản 2023),9,TL021,NXB017
+S0209,Thiết kế Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),9,TL019,NXB046
+S0210,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2025),13,TL013,NXB045
+S0211,Phân tích Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),12,TL025,NXB043
+S0212,Ứng dụng Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),9,TL016,NXB044
+S0213,Giáo trình Mạng máy tính (Tập 3 - Ấn bản 2022),9,TL002,NXB038
+S0214,Nhập môn Đại số tuyến tính (Tập 1 - Ấn bản 2023),6,TL025,NXB043
+S0215,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2024),13,TL002,NXB002
+S0216,Cẩm nang Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),15,TL017,NXB018
+S0217,Thực hành Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),8,TL022,NXB012
+S0218,Nhập môn Giải tích hàm (Tập 2 - Ấn bản 2021),11,TL022,NXB029
+S0219,Ứng dụng Văn học hiện đại (Tập 3 - Ấn bản 2022),14,TL020,NXB023
+S0220,Cẩm nang Kinh tế vi mô (Tập 1 - Ấn bản 2023),10,TL018,NXB047
+S0221,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2024),9,TL010,NXB009
+S0222,Lý thuyết Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),15,TL012,NXB008
+S0223,Giáo trình Nguyên lý kế toán (Tập 1 - Ấn bản 2020),15,TL003,NXB050
+S0224,Cẩm nang Marketing căn bản (Tập 2 - Ấn bản 2021),9,TL006,NXB016
+S0225,Cơ sở Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),11,TL020,NXB023
+S0226,Nhập môn Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),6,TL005,NXB029
+S0227,Cơ sở Văn học hiện đại (Tập 2 - Ấn bản 2024),13,TL025,NXB010
+S0228,Ứng dụng Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),6,TL021,NXB012
+S0229,Chuyên đề Luật dân sự (Tập 1 - Ấn bản 2020),13,TL008,NXB012
+S0230,Nhập môn Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),15,TL018,NXB030
+S0231,Nhập môn Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),8,TL016,NXB010
+S0232,Cơ sở Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),14,TL014,NXB014
+S0233,Nhập môn Quản trị học (Tập 2 - Ấn bản 2024),15,TL006,NXB004
+S0234,Thực hành Mạng máy tính (Tập 3 - Ấn bản 2025),14,TL011,NXB047
+S0235,Nhập môn Giải tích hàm (Tập 1 - Ấn bản 2020),10,TL006,NXB020
+S0236,Giáo trình Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),5,TL005,NXB041
+S0237,Phân tích Xác suất thống kê (Tập 3 - Ấn bản 2022),9,TL015,NXB039
+S0238,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2023),10,TL006,NXB007
+S0239,Chuyên đề Hệ điều hành (Tập 2 - Ấn bản 2024),13,TL021,NXB030
+S0240,Nhập môn Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),13,TL016,NXB041
+S0241,Chuyên đề Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),13,TL018,NXB024
+S0242,Nhập môn Giải tích hàm (Tập 2 - Ấn bản 2021),7,TL021,NXB010
+S0243,Cẩm nang Quản trị học (Tập 3 - Ấn bản 2022),8,TL001,NXB045
+S0244,Lý thuyết Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),12,TL003,NXB038
+S0245,Thực hành Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),12,TL023,NXB036
+S0246,Nhập môn Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),6,TL020,NXB017
+S0247,Chuyên đề Xác suất thống kê (Tập 1 - Ấn bản 2020),12,TL024,NXB021
+S0248,Phân tích Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),11,TL003,NXB046
+S0249,Lý thuyết Mạng máy tính (Tập 3 - Ấn bản 2022),13,TL007,NXB003
+S0250,Lý thuyết Mạng máy tính (Tập 1 - Ấn bản 2023),9,TL014,NXB001
+S0251,Chuyên đề Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),6,TL018,NXB018
+S0252,Giáo trình Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),9,TL024,NXB002
+S0253,Lý thuyết Học máy thống kê (Tập 1 - Ấn bản 2020),6,TL015,NXB040
+S0254,Thực hành Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),9,TL013,NXB048
+S0255,Phân tích Tiếng Đức B1 (Tập 3 - Ấn bản 2022),13,TL019,NXB004
+S0256,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),11,TL022,NXB032
+S0257,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2024),11,TL002,NXB019
+S0258,Ứng dụng Xác suất thống kê (Tập 3 - Ấn bản 2025),5,TL007,NXB020
+S0259,Phân tích Tiếng Đức B1 (Tập 1 - Ấn bản 2020),13,TL013,NXB042
+S0260,Thiết kế Quản trị học (Tập 2 - Ấn bản 2021),10,TL004,NXB049
+S0261,Giáo trình Học máy thống kê (Tập 3 - Ấn bản 2022),11,TL006,NXB049
+S0262,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),6,TL018,NXB007
+S0263,Thực hành Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),5,TL019,NXB009
+S0264,Chuyên đề Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),15,TL015,NXB007
+S0265,Phân tích Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),8,TL003,NXB027
+S0266,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2021),13,TL020,NXB021
+S0267,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2022),13,TL017,NXB035
+S0268,Cẩm nang Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),15,TL016,NXB024
+S0269,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2024),7,TL013,NXB032
+S0270,Giáo trình Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),5,TL022,NXB012
+S0271,Ứng dụng Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),6,TL022,NXB023
+S0272,Thực hành Kinh tế vi mô (Tập 2 - Ấn bản 2021),13,TL020,NXB036
+S0273,Ứng dụng Đại số tuyến tính (Tập 3 - Ấn bản 2022),13,TL008,NXB049
+S0274,Cơ sở Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),5,TL021,NXB029
+S0275,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),13,TL014,NXB003
+S0276,Thực hành Văn học hiện đại (Tập 3 - Ấn bản 2025),5,TL004,NXB043
+S0277,Chuyên đề Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),14,TL007,NXB008
+S0278,Ứng dụng Toán cao cấp (Tập 2 - Ấn bản 2021),8,TL010,NXB034
+S0279,Ứng dụng Quản trị học (Tập 3 - Ấn bản 2022),9,TL015,NXB014
+S0280,Thực hành Luật dân sự (Tập 1 - Ấn bản 2023),12,TL016,NXB036
+S0281,Lý thuyết Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),9,TL008,NXB048
+S0282,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2025),9,TL002,NXB046
+S0283,Lý thuyết Kinh tế vi mô (Tập 1 - Ấn bản 2020),8,TL017,NXB032
+S0284,Lý thuyết Học máy thống kê (Tập 2 - Ấn bản 2021),13,TL006,NXB007
+S0285,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2022),12,TL016,NXB010
+S0286,Cơ sở Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),13,TL002,NXB012
+S0287,Cơ sở Quản trị học (Tập 2 - Ấn bản 2024),11,TL024,NXB040
+S0288,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2025),11,TL021,NXB023
+S0289,Giáo trình Học máy thống kê (Tập 1 - Ấn bản 2020),9,TL018,NXB011
+S0290,Ứng dụng Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),14,TL011,NXB013
+S0291,Thực hành Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),5,TL012,NXB012
+S0292,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2023),10,TL005,NXB007
+S0293,Thiết kế Học máy thống kê (Tập 2 - Ấn bản 2024),14,TL002,NXB044
+S0294,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2025),10,TL022,NXB010
+S0295,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),14,TL024,NXB007
+S0296,Thực hành Văn học hiện đại (Tập 2 - Ấn bản 2021),8,TL018,NXB027
+S0297,Chuyên đề Nguyên lý kế toán (Tập 3 - Ấn bản 2022),6,TL022,NXB007
+S0298,Cơ sở Kinh tế vi mô (Tập 1 - Ấn bản 2023),5,TL006,NXB050
+S0299,Thiết kế Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),7,TL001,NXB024
+S0300,Ứng dụng Học máy thống kê (Tập 3 - Ấn bản 2025),15,TL009,NXB023
+S0301,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),13,TL015,NXB025
+S0302,Phân tích Tiếng Đức B1 (Tập 2 - Ấn bản 2021),5,TL008,NXB044
+S0303,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2022),9,TL014,NXB036
+S0304,Chuyên đề Văn học hiện đại (Tập 1 - Ấn bản 2023),14,TL004,NXB033
+S0305,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),10,TL007,NXB037
+S0306,Thực hành Quản trị học (Tập 3 - Ấn bản 2025),13,TL020,NXB042
+S0307,Cơ sở Marketing căn bản (Tập 1 - Ấn bản 2020),5,TL008,NXB039
+S0308,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),9,TL010,NXB007
+S0309,Thiết kế Giải tích hàm (Tập 3 - Ấn bản 2022),5,TL018,NXB030
+S0310,Nhập môn Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),6,TL018,NXB031
+S0311,Thiết kế Toán cao cấp (Tập 2 - Ấn bản 2024),6,TL019,NXB045
+S0312,Phân tích Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),15,TL004,NXB046
+S0313,Ứng dụng Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),9,TL013,NXB037
+S0314,Lý thuyết Mạng máy tính (Tập 2 - Ấn bản 2021),14,TL006,NXB021
+S0315,Cẩm nang Xác suất thống kê (Tập 3 - Ấn bản 2022),8,TL021,NXB034
+S0316,Cơ sở Hệ điều hành (Tập 1 - Ấn bản 2023),10,TL013,NXB046
+S0317,Nhập môn Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),9,TL023,NXB021
+S0318,Phân tích Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),6,TL022,NXB040
+S0319,Nhập môn Mạng máy tính (Tập 1 - Ấn bản 2020),13,TL016,NXB020
+S0320,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2021),14,TL020,NXB034
+S0321,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),12,TL010,NXB008
+S0322,Thiết kế Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),13,TL009,NXB032
+S0323,Chuyên đề Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),15,TL007,NXB030
+S0324,Phân tích Đại số tuyến tính (Tập 3 - Ấn bản 2025),10,TL017,NXB029
+S0325,Lý thuyết Luật dân sự (Tập 1 - Ấn bản 2020),9,TL024,NXB005
+S0326,Phân tích Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),9,TL020,NXB030
+S0327,Cẩm nang Luật dân sự (Tập 3 - Ấn bản 2022),6,TL007,NXB012
+S0328,Nhập môn Kinh tế vi mô (Tập 1 - Ấn bản 2023),15,TL002,NXB039
+S0329,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),8,TL019,NXB027
+S0330,Cơ sở Giải tích hàm (Tập 3 - Ấn bản 2025),6,TL001,NXB013
+S0331,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2020),6,TL002,NXB047
+S0332,Ứng dụng Mạng máy tính (Tập 2 - Ấn bản 2021),12,TL005,NXB010
+S0333,Ứng dụng Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),8,TL018,NXB036
+S0334,Ứng dụng Kinh tế vi mô (Tập 1 - Ấn bản 2023),8,TL006,NXB031
+S0335,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),11,TL006,NXB016
+S0336,Cơ sở Quản trị học (Tập 3 - Ấn bản 2025),8,TL022,NXB039
+S0337,Chuyên đề Marketing căn bản (Tập 1 - Ấn bản 2020),13,TL016,NXB045
+S0338,Ứng dụng Toán cao cấp (Tập 2 - Ấn bản 2021),13,TL016,NXB036
+S0339,Lý thuyết Luật dân sự (Tập 3 - Ấn bản 2022),7,TL003,NXB026
+S0340,Ứng dụng Luật dân sự (Tập 1 - Ấn bản 2023),10,TL003,NXB044
+S0341,Giáo trình Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),11,TL023,NXB020
+S0342,Thực hành Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),7,TL004,NXB034
+S0343,Thực hành Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),8,TL006,NXB037
+S0344,Phân tích Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),5,TL024,NXB008
+S0345,Nhập môn Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),15,TL003,NXB004
+S0346,Nhập môn Học máy thống kê (Tập 1 - Ấn bản 2023),13,TL025,NXB029
+S0347,Giáo trình Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),11,TL009,NXB031
+S0348,Cơ sở Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),14,TL003,NXB002
+S0349,Lý thuyết Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),11,TL006,NXB025
+S0350,Phân tích Quản trị học (Tập 2 - Ấn bản 2021),13,TL021,NXB038
+S0351,Lý thuyết Luật dân sự (Tập 3 - Ấn bản 2022),10,TL020,NXB003
+S0352,Thiết kế Quản trị học (Tập 1 - Ấn bản 2023),12,TL024,NXB046
+S0353,Phân tích Văn học hiện đại (Tập 2 - Ấn bản 2024),9,TL009,NXB042
+S0354,Phân tích Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),12,TL015,NXB043
+S0355,Nhập môn Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),14,TL009,NXB005
+S0356,Giáo trình Luật dân sự (Tập 2 - Ấn bản 2021),5,TL005,NXB022
+S0357,Thực hành Marketing căn bản (Tập 3 - Ấn bản 2022),7,TL021,NXB016
+S0358,Lý thuyết Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),8,TL016,NXB009
+S0359,Thực hành Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),15,TL003,NXB048
+S0360,Lý thuyết Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),13,TL009,NXB009
+S0361,Phân tích Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),12,TL017,NXB049
+S0362,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),12,TL003,NXB012
+S0363,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2022),6,TL007,NXB047
+S0364,Ứng dụng Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),11,TL007,NXB042
+S0365,Phân tích Xác suất thống kê (Tập 2 - Ấn bản 2024),7,TL021,NXB004
+S0366,Phân tích Tiếng Đức B1 (Tập 3 - Ấn bản 2025),10,TL006,NXB049
+S0367,Phân tích Mạng máy tính (Tập 1 - Ấn bản 2020),8,TL020,NXB018
+S0368,Ứng dụng Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),10,TL008,NXB018
+S0369,Lý thuyết Hệ điều hành (Tập 3 - Ấn bản 2022),8,TL004,NXB042
+S0370,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),7,TL015,NXB043
+S0371,Chuyên đề Marketing căn bản (Tập 2 - Ấn bản 2024),6,TL006,NXB033
+S0372,Thiết kế Mạng máy tính (Tập 3 - Ấn bản 2025),8,TL016,NXB042
+S0373,Phân tích Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),14,TL005,NXB003
+S0374,Chuyên đề Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),6,TL012,NXB038
+S0375,Phân tích Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),11,TL014,NXB017
+S0376,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2023),5,TL006,NXB012
+S0377,Thực hành Luật dân sự (Tập 2 - Ấn bản 2024),15,TL003,NXB011
+S0378,Thiết kế Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),5,TL019,NXB017
+S0379,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2020),9,TL010,NXB035
+S0380,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),11,TL007,NXB041
+S0381,Chuyên đề Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),5,TL013,NXB050
+S0382,Cơ sở Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),8,TL001,NXB006
+S0383,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),9,TL001,NXB035
+S0384,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),6,TL017,NXB006
+S0385,Phân tích Quản trị học (Tập 1 - Ấn bản 2020),11,TL022,NXB032
+S0386,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2021),8,TL004,NXB011
+S0387,Thực hành Kinh tế vi mô (Tập 3 - Ấn bản 2022),12,TL014,NXB043
+S0388,Giáo trình Hệ điều hành (Tập 1 - Ấn bản 2023),5,TL006,NXB039
+S0389,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),14,TL014,NXB013
+S0390,Lý thuyết Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),5,TL015,NXB013
+S0391,Thực hành Giải tích hàm (Tập 1 - Ấn bản 2020),5,TL001,NXB039
+S0392,Cơ sở Marketing căn bản (Tập 2 - Ấn bản 2021),8,TL020,NXB046
+S0393,Thiết kế Văn học hiện đại (Tập 3 - Ấn bản 2022),5,TL016,NXB034
+S0394,Ứng dụng Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),9,TL004,NXB003
+S0395,Ứng dụng Luật dân sự (Tập 2 - Ấn bản 2024),10,TL002,NXB032
+S0396,Chuyên đề Tiếng Đức B1 (Tập 3 - Ấn bản 2025),11,TL001,NXB004
+S0397,Cẩm nang Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),12,TL013,NXB040
+S0398,Cẩm nang Xác suất thống kê (Tập 2 - Ấn bản 2021),12,TL016,NXB001
+S0399,Cơ sở Luật dân sự (Tập 3 - Ấn bản 2022),6,TL008,NXB009
+S0400,Nhập môn Marketing căn bản (Tập 1 - Ấn bản 2023),8,TL022,NXB049
+S0401,Phân tích Quản trị học (Tập 2 - Ấn bản 2024),11,TL004,NXB050
+S0402,Lý thuyết Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),13,TL002,NXB007
+S0403,Cẩm nang Quản trị học (Tập 1 - Ấn bản 2020),13,TL013,NXB027
+S0404,Giáo trình Toán cao cấp (Tập 2 - Ấn bản 2021),15,TL005,NXB003
+S0405,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),7,TL025,NXB022
+S0406,Giáo trình Tiếng Đức B1 (Tập 1 - Ấn bản 2023),11,TL023,NXB016
+S0407,Phân tích Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),8,TL020,NXB008
+S0408,Chuyên đề Nguyên lý kế toán (Tập 3 - Ấn bản 2025),13,TL021,NXB005
+S0409,Chuyên đề Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),11,TL024,NXB049
+S0410,Thiết kế Toán cao cấp (Tập 2 - Ấn bản 2021),10,TL013,NXB030
+S0411,Nhập môn Văn học hiện đại (Tập 3 - Ấn bản 2022),13,TL005,NXB028
+S0412,Cẩm nang Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),11,TL016,NXB027
+S0413,Thực hành Giải tích hàm (Tập 2 - Ấn bản 2024),15,TL006,NXB050
+S0414,Thực hành Marketing căn bản (Tập 3 - Ấn bản 2025),12,TL016,NXB022
+S0415,Ứng dụng Mạng máy tính (Tập 1 - Ấn bản 2020),15,TL022,NXB030
+S0416,Cơ sở Đại số tuyến tính (Tập 2 - Ấn bản 2021),9,TL024,NXB037
+S0417,Ứng dụng Mạng máy tính (Tập 3 - Ấn bản 2022),8,TL013,NXB007
+S0418,Thực hành Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),5,TL011,NXB050
+S0419,Ứng dụng Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),12,TL021,NXB030
+S0420,Ứng dụng Kinh tế vi mô (Tập 3 - Ấn bản 2025),10,TL001,NXB013
+S0421,Cẩm nang Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),8,TL004,NXB022
+S0422,Phân tích Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),7,TL003,NXB011
+S0423,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2022),9,TL018,NXB005
+S0424,Ứng dụng Hệ điều hành (Tập 1 - Ấn bản 2023),8,TL023,NXB022
+S0425,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),15,TL016,NXB015
+S0426,Cơ sở Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),15,TL013,NXB039
+S0427,Thực hành Nguyên lý kế toán (Tập 1 - Ấn bản 2020),11,TL013,NXB037
+S0428,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2021),10,TL007,NXB031
+S0429,Thiết kế Xác suất thống kê (Tập 3 - Ấn bản 2022),7,TL024,NXB029
+S0430,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),14,TL015,NXB039
+S0431,Ứng dụng Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL015,NXB017
+S0432,Phân tích Văn học hiện đại (Tập 3 - Ấn bản 2025),5,TL005,NXB041
+S0433,Cơ sở Xác suất thống kê (Tập 1 - Ấn bản 2020),11,TL017,NXB006
+S0434,Giáo trình Toán cao cấp (Tập 2 - Ấn bản 2021),9,TL022,NXB041
+S0435,Cơ sở Tiếng Đức B1 (Tập 3 - Ấn bản 2022),5,TL022,NXB017
+S0436,Cơ sở Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),5,TL011,NXB034
+S0437,Thực hành Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),10,TL024,NXB023
+S0438,Cơ sở Đại số tuyến tính (Tập 3 - Ấn bản 2025),8,TL013,NXB030
+S0439,Nhập môn Giải tích hàm (Tập 1 - Ấn bản 2020),12,TL010,NXB013
+S0440,Thiết kế Marketing căn bản (Tập 2 - Ấn bản 2021),6,TL015,NXB030
+S0441,Thực hành Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),8,TL002,NXB049
+S0442,Cẩm nang Xác suất thống kê (Tập 1 - Ấn bản 2023),12,TL011,NXB020
+S0443,Cơ sở Kinh tế vi mô (Tập 2 - Ấn bản 2024),12,TL025,NXB006
+S0444,Lý thuyết Kinh tế vi mô (Tập 3 - Ấn bản 2025),9,TL011,NXB031
+S0445,Lý thuyết Văn học hiện đại (Tập 1 - Ấn bản 2020),7,TL022,NXB019
+S0446,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2021),8,TL001,NXB006
+S0447,Ứng dụng Giải tích hàm (Tập 3 - Ấn bản 2022),7,TL025,NXB034
+S0448,Nhập môn Nguyên lý kế toán (Tập 1 - Ấn bản 2023),15,TL008,NXB028
+S0449,Nhập môn Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),6,TL017,NXB013
+S0450,Phân tích Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),8,TL008,NXB010
+S0451,Chuyên đề Toán cao cấp (Tập 1 - Ấn bản 2020),13,TL013,NXB041
+S0452,Lý thuyết Xác suất thống kê (Tập 2 - Ấn bản 2021),10,TL023,NXB045
+S0453,Cơ sở Hệ điều hành (Tập 3 - Ấn bản 2022),8,TL005,NXB007
+S0454,Thiết kế Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),5,TL006,NXB018
+S0455,Ứng dụng Luật dân sự (Tập 2 - Ấn bản 2024),11,TL020,NXB022
+S0456,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),6,TL025,NXB014
+S0457,Lý thuyết Marketing căn bản (Tập 1 - Ấn bản 2020),10,TL025,NXB036
+S0458,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),14,TL014,NXB008
+S0459,Giáo trình Quản trị học (Tập 3 - Ấn bản 2022),5,TL017,NXB012
+S0460,Ứng dụng Xác suất thống kê (Tập 1 - Ấn bản 2023),11,TL016,NXB040
+S0461,Phân tích Giải tích hàm (Tập 2 - Ấn bản 2024),8,TL009,NXB048
+S0462,Nhập môn Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),15,TL019,NXB033
+S0463,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),7,TL002,NXB024
+S0464,Nhập môn Tiếng Đức B1 (Tập 2 - Ấn bản 2021),14,TL004,NXB042
+S0465,Giáo trình Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),11,TL020,NXB039
+S0466,Phân tích Học máy thống kê (Tập 1 - Ấn bản 2023),7,TL009,NXB014
+S0467,Chuyên đề Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),12,TL004,NXB049
+S0468,Ứng dụng Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),15,TL005,NXB005
+S0469,Thực hành Luật dân sự (Tập 1 - Ấn bản 2020),8,TL006,NXB019
+S0470,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),7,TL020,NXB003
+S0471,Ứng dụng Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),11,TL001,NXB001
+S0472,Giáo trình Văn học hiện đại (Tập 1 - Ấn bản 2023),11,TL013,NXB040
+S0473,Thiết kế Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),13,TL018,NXB041
+S0474,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),14,TL003,NXB037
+S0475,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL020,NXB033
+S0476,Thực hành Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),10,TL005,NXB049
+S0477,Cơ sở Mạng máy tính (Tập 3 - Ấn bản 2022),7,TL013,NXB046
+S0478,Thiết kế Văn học hiện đại (Tập 1 - Ấn bản 2023),8,TL010,NXB017
+S0479,Nhập môn Tiếng Đức B1 (Tập 2 - Ấn bản 2024),12,TL003,NXB009
+S0480,Ứng dụng Xác suất thống kê (Tập 3 - Ấn bản 2025),10,TL011,NXB031
+S0481,Giáo trình Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),13,TL001,NXB035
+S0482,Giáo trình Học máy thống kê (Tập 2 - Ấn bản 2021),12,TL015,NXB003
+S0483,Ứng dụng Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),12,TL024,NXB013
+S0484,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),15,TL024,NXB037
+S0485,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),14,TL004,NXB038
+S0486,Thực hành Marketing căn bản (Tập 3 - Ấn bản 2025),14,TL015,NXB014
+S0487,Thiết kế Quản trị học (Tập 1 - Ấn bản 2020),11,TL007,NXB006
+S0488,Ứng dụng Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),14,TL015,NXB029
+S0489,Chuyên đề Xác suất thống kê (Tập 3 - Ấn bản 2022),15,TL004,NXB049
+S0490,Phân tích Đại số tuyến tính (Tập 1 - Ấn bản 2023),5,TL003,NXB009
+S0491,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2024),9,TL023,NXB036
+S0492,Cơ sở Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),11,TL014,NXB023
+S0493,Chuyên đề Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),14,TL006,NXB015
+S0494,Giáo trình Văn học hiện đại (Tập 2 - Ấn bản 2021),13,TL001,NXB050
+S0495,Thiết kế Đại số tuyến tính (Tập 3 - Ấn bản 2022),8,TL009,NXB047
+S0496,Cẩm nang Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),12,TL012,NXB050
+S0497,Lý thuyết Học máy thống kê (Tập 2 - Ấn bản 2024),5,TL018,NXB007
+S0498,Cơ sở Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),8,TL003,NXB047
+S0499,Cẩm nang Giải tích hàm (Tập 1 - Ấn bản 2020),8,TL021,NXB025
+S0500,Ứng dụng Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),6,TL019,NXB037
+S0501,Chuyên đề Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),15,TL003,NXB023
+S0502,Lý thuyết Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),15,TL024,NXB011
+S0503,Cẩm nang Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),7,TL014,NXB046
+S0504,Nhập môn Toán cao cấp (Tập 3 - Ấn bản 2025),7,TL004,NXB008
+S0505,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),13,TL013,NXB036
+S0506,Phân tích Marketing căn bản (Tập 2 - Ấn bản 2021),11,TL013,NXB042
+S0507,Cơ sở Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),6,TL002,NXB039
+S0508,Lý thuyết Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),13,TL021,NXB001
+S0509,Cẩm nang Toán cao cấp (Tập 2 - Ấn bản 2024),12,TL002,NXB044
+S0510,Lý thuyết Kinh tế vi mô (Tập 3 - Ấn bản 2025),10,TL010,NXB013
+S0511,Ứng dụng Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),10,TL011,NXB016
+S0512,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),6,TL024,NXB046
+S0513,Lý thuyết Tiếng Đức B1 (Tập 3 - Ấn bản 2022),7,TL015,NXB013
+S0514,Thực hành Hệ điều hành (Tập 1 - Ấn bản 2023),10,TL003,NXB037
+S0515,Giáo trình Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL014,NXB014
+S0516,Chuyên đề Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),15,TL018,NXB013
+S0517,Phân tích Đại số tuyến tính (Tập 1 - Ấn bản 2020),15,TL019,NXB046
+S0518,Giáo trình Mạng máy tính (Tập 2 - Ấn bản 2021),11,TL019,NXB012
+S0519,Thực hành Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),9,TL001,NXB028
+S0520,Nhập môn Mạng máy tính (Tập 1 - Ấn bản 2023),8,TL019,NXB022
+S0521,Thiết kế Học máy thống kê (Tập 2 - Ấn bản 2024),12,TL003,NXB020
+S0522,Phân tích Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),15,TL020,NXB047
+S0523,Thiết kế Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),15,TL008,NXB019
+S0524,Thiết kế Đại số tuyến tính (Tập 2 - Ấn bản 2021),6,TL025,NXB011
+S0525,Nhập môn Học máy thống kê (Tập 3 - Ấn bản 2022),7,TL017,NXB030
+S0526,Nhập môn Học máy thống kê (Tập 1 - Ấn bản 2023),14,TL001,NXB026
+S0527,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),8,TL006,NXB015
+S0528,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2025),14,TL017,NXB030
+S0529,Chuyên đề Quản trị học (Tập 1 - Ấn bản 2020),10,TL021,NXB029
+S0530,Nhập môn Xác suất thống kê (Tập 2 - Ấn bản 2021),9,TL001,NXB032
+S0531,Giáo trình Hệ điều hành (Tập 3 - Ấn bản 2022),9,TL013,NXB030
+S0532,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2023),11,TL024,NXB044
+S0533,Lý thuyết Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),12,TL012,NXB016
+S0534,Cẩm nang Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),10,TL005,NXB036
+S0535,Cơ sở Đại số tuyến tính (Tập 1 - Ấn bản 2020),7,TL022,NXB018
+S0536,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2021),8,TL020,NXB041
+S0537,Cẩm nang Giải tích hàm (Tập 3 - Ấn bản 2022),5,TL013,NXB048
+S0538,Giáo trình Văn học hiện đại (Tập 1 - Ấn bản 2023),15,TL008,NXB039
+S0539,Thiết kế Học máy thống kê (Tập 2 - Ấn bản 2024),9,TL012,NXB028
+S0540,Cẩm nang Quản trị học (Tập 3 - Ấn bản 2025),14,TL025,NXB019
+S0541,Cơ sở Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),12,TL009,NXB011
+S0542,Thực hành Toán cao cấp (Tập 2 - Ấn bản 2021),7,TL017,NXB017
+S0543,Phân tích Tiếng Đức B1 (Tập 3 - Ấn bản 2022),14,TL014,NXB021
+S0544,Nhập môn Giải tích hàm (Tập 1 - Ấn bản 2023),8,TL007,NXB037
+S0545,Cơ sở Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),8,TL004,NXB044
+S0546,Lý thuyết Kinh tế vi mô (Tập 3 - Ấn bản 2025),10,TL024,NXB034
+S0547,Nhập môn Giải tích hàm (Tập 1 - Ấn bản 2020),13,TL007,NXB033
+S0548,Cẩm nang Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),14,TL017,NXB029
+S0549,Thiết kế Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),7,TL017,NXB004
+S0550,Lý thuyết Luật dân sự (Tập 1 - Ấn bản 2023),8,TL001,NXB032
+S0551,Cơ sở Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),10,TL002,NXB011
+S0552,Nhập môn Đại số tuyến tính (Tập 3 - Ấn bản 2025),10,TL018,NXB026
+S0553,Ứng dụng Marketing căn bản (Tập 1 - Ấn bản 2020),11,TL009,NXB018
+S0554,Thiết kế Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),5,TL005,NXB032
+S0555,Thiết kế Mạng máy tính (Tập 3 - Ấn bản 2022),13,TL001,NXB027
+S0556,Thiết kế Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),6,TL007,NXB016
+S0557,Ứng dụng Hệ điều hành (Tập 2 - Ấn bản 2024),8,TL002,NXB010
+S0558,Cơ sở Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),7,TL003,NXB044
+S0559,Giáo trình Nguyên lý kế toán (Tập 1 - Ấn bản 2020),7,TL004,NXB034
+S0560,Thiết kế Kinh tế vi mô (Tập 2 - Ấn bản 2021),15,TL003,NXB033
+S0561,Lý thuyết Giải tích hàm (Tập 3 - Ấn bản 2022),9,TL019,NXB010
+S0562,Nhập môn Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),11,TL025,NXB042
+S0563,Thực hành Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),11,TL012,NXB026
+S0564,Thiết kế Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),11,TL015,NXB042
+S0565,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),7,TL004,NXB025
+S0566,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),13,TL024,NXB002
+S0567,Thực hành Xác suất thống kê (Tập 3 - Ấn bản 2022),10,TL001,NXB026
+S0568,Phân tích Marketing căn bản (Tập 1 - Ấn bản 2023),15,TL016,NXB020
+S0569,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),15,TL006,NXB003
+S0570,Phân tích Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),14,TL017,NXB032
+S0571,Giáo trình Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),15,TL005,NXB001
+S0572,Nhập môn Quản trị học (Tập 2 - Ấn bản 2021),12,TL023,NXB024
+S0573,Thực hành Hệ điều hành (Tập 3 - Ấn bản 2022),5,TL013,NXB050
+S0574,Phân tích Luật dân sự (Tập 1 - Ấn bản 2023),8,TL012,NXB043
+S0575,Chuyên đề Nguyên lý kế toán (Tập 2 - Ấn bản 2024),11,TL001,NXB044
+S0576,Chuyên đề Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),13,TL025,NXB033
+S0577,Nhập môn Học máy thống kê (Tập 1 - Ấn bản 2020),7,TL012,NXB038
+S0578,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),15,TL025,NXB048
+S0579,Giáo trình Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),10,TL022,NXB035
+S0580,Ứng dụng Hệ điều hành (Tập 1 - Ấn bản 2023),12,TL002,NXB017
+S0581,Thiết kế Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),15,TL018,NXB048
+S0582,Lý thuyết Toán cao cấp (Tập 3 - Ấn bản 2025),7,TL009,NXB043
+S0583,Thiết kế Quản trị học (Tập 1 - Ấn bản 2020),10,TL016,NXB048
+S0584,Nhập môn Văn học hiện đại (Tập 2 - Ấn bản 2021),13,TL020,NXB044
+S0585,Ứng dụng Giải tích hàm (Tập 3 - Ấn bản 2022),13,TL015,NXB033
+S0586,Cẩm nang Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),10,TL022,NXB011
+S0587,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),9,TL010,NXB023
+S0588,Ứng dụng Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),5,TL002,NXB038
+S0589,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),7,TL004,NXB032
+S0590,Thiết kế Kinh tế vi mô (Tập 2 - Ấn bản 2021),7,TL018,NXB019
+S0591,Cơ sở Giải tích hàm (Tập 3 - Ấn bản 2022),8,TL019,NXB012
+S0592,Giáo trình Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),9,TL018,NXB028
+S0593,Chuyên đề Đại số tuyến tính (Tập 2 - Ấn bản 2024),15,TL014,NXB002
+S0594,Chuyên đề Kinh tế vi mô (Tập 3 - Ấn bản 2025),12,TL008,NXB010
+S0595,Thực hành Xác suất thống kê (Tập 1 - Ấn bản 2020),15,TL005,NXB019
+S0596,Cẩm nang Toán cao cấp (Tập 2 - Ấn bản 2021),13,TL005,NXB028
+S0597,Cẩm nang Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),11,TL008,NXB047
+S0598,Thiết kế Mạng máy tính (Tập 1 - Ấn bản 2023),14,TL011,NXB008
+S0599,Giáo trình Xác suất thống kê (Tập 2 - Ấn bản 2024),10,TL024,NXB043
+S0600,Phân tích Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),7,TL023,NXB023
+S0601,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2020),13,TL021,NXB048
+S0602,Phân tích Tiếng Đức B1 (Tập 2 - Ấn bản 2021),14,TL007,NXB045
+S0603,Cơ sở Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),5,TL013,NXB030
+S0604,Ứng dụng Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),13,TL017,NXB028
+S0605,Phân tích Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),7,TL019,NXB013
+S0606,Nhập môn Toán cao cấp (Tập 3 - Ấn bản 2025),13,TL003,NXB037
+S0607,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2020),14,TL002,NXB012
+S0608,Phân tích Luật dân sự (Tập 2 - Ấn bản 2021),5,TL006,NXB010
+S0609,Cơ sở Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),12,TL019,NXB017
+S0610,Chuyên đề Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),10,TL015,NXB001
+S0611,Thiết kế Luật dân sự (Tập 2 - Ấn bản 2024),13,TL004,NXB022
+S0612,Thiết kế Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),8,TL019,NXB015
+S0613,Ứng dụng Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),9,TL007,NXB016
+S0614,Thiết kế Hệ điều hành (Tập 2 - Ấn bản 2021),10,TL020,NXB020
+S0615,Ứng dụng Đại số tuyến tính (Tập 3 - Ấn bản 2022),13,TL021,NXB010
+S0616,Thực hành Giải tích hàm (Tập 1 - Ấn bản 2023),10,TL014,NXB042
+S0617,Giáo trình Marketing căn bản (Tập 2 - Ấn bản 2024),13,TL007,NXB026
+S0618,Phân tích Toán cao cấp (Tập 3 - Ấn bản 2025),6,TL020,NXB049
+S0619,Thiết kế Văn học hiện đại (Tập 1 - Ấn bản 2020),8,TL014,NXB023
+S0620,Phân tích Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),7,TL022,NXB017
+S0621,Giáo trình Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),8,TL025,NXB034
+S0622,Thực hành Học máy thống kê (Tập 1 - Ấn bản 2023),5,TL022,NXB041
+S0623,Thiết kế Quản trị học (Tập 2 - Ấn bản 2024),6,TL005,NXB022
+S0624,Thiết kế Hệ điều hành (Tập 3 - Ấn bản 2025),8,TL015,NXB004
+S0625,Lý thuyết Nguyên lý kế toán (Tập 1 - Ấn bản 2020),14,TL012,NXB007
+S0626,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),8,TL017,NXB005
+S0627,Chuyên đề Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),9,TL024,NXB031
+S0628,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),13,TL021,NXB019
+S0629,Ứng dụng Văn học hiện đại (Tập 2 - Ấn bản 2024),5,TL005,NXB004
+S0630,Cẩm nang Đại số tuyến tính (Tập 3 - Ấn bản 2025),12,TL019,NXB050
+S0631,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2020),7,TL010,NXB022
+S0632,Cẩm nang Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),13,TL012,NXB003
+S0633,Giáo trình Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),15,TL002,NXB023
+S0634,Nhập môn Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),12,TL017,NXB004
+S0635,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),12,TL025,NXB046
+S0636,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2025),13,TL005,NXB024
+S0637,Ứng dụng Xác suất thống kê (Tập 1 - Ấn bản 2020),8,TL015,NXB014
+S0638,Nhập môn Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),9,TL020,NXB049
+S0639,Thiết kế Kinh tế vi mô (Tập 3 - Ấn bản 2022),11,TL023,NXB041
+S0640,Cơ sở Kinh tế vi mô (Tập 1 - Ấn bản 2023),6,TL013,NXB003
+S0641,Nhập môn Quản trị học (Tập 2 - Ấn bản 2024),11,TL020,NXB047
+S0642,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),7,TL011,NXB021
+S0643,Thiết kế Marketing căn bản (Tập 1 - Ấn bản 2020),10,TL018,NXB026
+S0644,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),10,TL009,NXB001
+S0645,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),10,TL016,NXB030
+S0646,Cơ sở Quản trị học (Tập 1 - Ấn bản 2023),14,TL024,NXB004
+S0647,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),6,TL015,NXB014
+S0648,Phân tích Hệ điều hành (Tập 3 - Ấn bản 2025),13,TL004,NXB018
+S0649,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),12,TL024,NXB012
+S0650,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),11,TL012,NXB038
+S0651,Thực hành Xác suất thống kê (Tập 3 - Ấn bản 2022),15,TL013,NXB042
+S0652,Thiết kế Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),13,TL009,NXB036
+S0653,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),8,TL015,NXB016
+S0654,Cơ sở Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),6,TL018,NXB001
+S0655,Thực hành Mạng máy tính (Tập 1 - Ấn bản 2020),8,TL020,NXB003
+S0656,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),14,TL022,NXB039
+S0657,Cẩm nang Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),15,TL007,NXB035
+S0658,Giáo trình Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),7,TL021,NXB015
+S0659,Cơ sở Học máy thống kê (Tập 2 - Ấn bản 2024),6,TL012,NXB038
+S0660,Phân tích Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),6,TL010,NXB016
+S0661,Chuyên đề Học máy thống kê (Tập 1 - Ấn bản 2020),12,TL007,NXB017
+S0662,Thiết kế Văn học hiện đại (Tập 2 - Ấn bản 2021),9,TL014,NXB034
+S0663,Thực hành Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),10,TL015,NXB010
+S0664,Ứng dụng Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),12,TL004,NXB011
+S0665,Chuyên đề Toán cao cấp (Tập 2 - Ấn bản 2024),11,TL008,NXB028
+S0666,Chuyên đề Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),11,TL019,NXB027
+S0667,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),11,TL019,NXB038
+S0668,Cẩm nang Tiếng Đức B1 (Tập 2 - Ấn bản 2021),15,TL005,NXB018
+S0669,Lý thuyết Kinh tế vi mô (Tập 3 - Ấn bản 2022),15,TL022,NXB047
+S0670,Lý thuyết Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),11,TL003,NXB048
+S0671,Ứng dụng Mạng máy tính (Tập 2 - Ấn bản 2024),12,TL010,NXB030
+S0672,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),5,TL015,NXB013
+S0673,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),7,TL002,NXB016
+S0674,Thiết kế Xác suất thống kê (Tập 2 - Ấn bản 2021),5,TL021,NXB002
+S0675,Nhập môn Quản trị học (Tập 3 - Ấn bản 2022),12,TL010,NXB020
+S0676,Phân tích Marketing căn bản (Tập 1 - Ấn bản 2023),6,TL022,NXB012
+S0677,Ứng dụng Luật dân sự (Tập 2 - Ấn bản 2024),11,TL016,NXB029
+S0678,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL003,NXB046
+S0679,Cơ sở Văn học hiện đại (Tập 1 - Ấn bản 2020),15,TL007,NXB008
+S0680,Cẩm nang Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),5,TL019,NXB038
+S0681,Phân tích Nguyên lý kế toán (Tập 3 - Ấn bản 2022),10,TL015,NXB046
+S0682,Ứng dụng Văn học hiện đại (Tập 1 - Ấn bản 2023),13,TL012,NXB047
+S0683,Thiết kế Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),7,TL002,NXB020
+S0684,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),11,TL013,NXB035
+S0685,Chuyên đề Giải tích hàm (Tập 1 - Ấn bản 2020),8,TL020,NXB039
+S0686,Chuyên đề Giải tích hàm (Tập 2 - Ấn bản 2021),5,TL019,NXB031
+S0687,Cơ sở Mạng máy tính (Tập 3 - Ấn bản 2022),11,TL007,NXB016
+S0688,Phân tích Kinh tế vi mô (Tập 1 - Ấn bản 2023),5,TL024,NXB023
+S0689,Thực hành Marketing căn bản (Tập 2 - Ấn bản 2024),15,TL003,NXB034
+S0690,Ứng dụng Quản trị học (Tập 3 - Ấn bản 2025),8,TL006,NXB032
+S0691,Thực hành Toán cao cấp (Tập 1 - Ấn bản 2020),13,TL001,NXB017
+S0692,Ứng dụng Hệ điều hành (Tập 2 - Ấn bản 2021),9,TL021,NXB043
+S0693,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL002,NXB024
+S0694,Thiết kế Kinh tế vi mô (Tập 1 - Ấn bản 2023),11,TL001,NXB035
+S0695,Cơ sở Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL023,NXB023
+S0696,Chuyên đề Luật dân sự (Tập 3 - Ấn bản 2025),15,TL004,NXB008
+S0697,Cơ sở Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),12,TL005,NXB023
+S0698,Cơ sở Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2021),5,TL002,NXB021
+S0699,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2022),8,TL016,NXB019
+S0700,Ứng dụng Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),14,TL008,NXB031
+S0701,Thực hành Học máy thống kê (Tập 2 - Ấn bản 2024),8,TL015,NXB050
+S0702,Thiết kế Quản trị học (Tập 3 - Ấn bản 2025),6,TL011,NXB007
+S0703,Cẩm nang Toán cao cấp (Tập 1 - Ấn bản 2020),10,TL010,NXB048
+S0704,Ứng dụng Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2021),5,TL003,NXB024
+S0705,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2022),7,TL023,NXB046
+S0706,Ứng dụng Tiếng Đức B1 (Tập 1 - Ấn bản 2023),13,TL011,NXB008
+S0707,Chuyên đề Tiếng Đức B1 (Tập 2 - Ấn bản 2024),14,TL017,NXB013
+S0708,Thực hành Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),10,TL010,NXB003
+S0709,Lý thuyết Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),6,TL017,NXB034
+S0710,Lý thuyết Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),13,TL014,NXB013
+S0711,Chuyên đề Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),6,TL023,NXB032
+S0712,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),11,TL001,NXB035
+S0713,Ứng dụng Hệ điều hành (Tập 2 - Ấn bản 2024),5,TL025,NXB021
+S0714,Cẩm nang Quản trị học (Tập 3 - Ấn bản 2025),9,TL009,NXB001
+S0715,Chuyên đề Luật dân sự (Tập 1 - Ấn bản 2020),11,TL024,NXB002
+S0716,Ứng dụng Xác suất thống kê (Tập 2 - Ấn bản 2021),7,TL024,NXB042
+S0717,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),8,TL015,NXB043
+S0718,Lý thuyết Xác suất thống kê (Tập 1 - Ấn bản 2023),9,TL004,NXB026
+S0719,Nhập môn Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),7,TL020,NXB003
+S0720,Ứng dụng Nguyên lý kế toán (Tập 3 - Ấn bản 2025),10,TL021,NXB024
+S0721,Cơ sở Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),7,TL025,NXB026
+S0722,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2021),12,TL003,NXB008
+S0723,Lý thuyết Giải tích hàm (Tập 3 - Ấn bản 2022),11,TL020,NXB047
+S0724,Giáo trình Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),5,TL021,NXB037
+S0725,Chuyên đề Hệ điều hành (Tập 2 - Ấn bản 2024),6,TL007,NXB008
+S0726,Cẩm nang Luật dân sự (Tập 3 - Ấn bản 2025),8,TL021,NXB018
+S0727,Cơ sở Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),9,TL025,NXB018
+S0728,Chuyên đề Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),15,TL022,NXB012
+S0729,Ứng dụng Nguyên lý kế toán (Tập 3 - Ấn bản 2022),14,TL003,NXB036
+S0730,Ứng dụng Học máy thống kê (Tập 1 - Ấn bản 2023),15,TL022,NXB040
+S0731,Ứng dụng Văn học hiện đại (Tập 2 - Ấn bản 2024),8,TL022,NXB002
+S0732,Lý thuyết Xác suất thống kê (Tập 3 - Ấn bản 2025),8,TL015,NXB020
+S0733,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2020),13,TL010,NXB003
+S0734,Thiết kế Nguyên lý kế toán (Tập 2 - Ấn bản 2021),8,TL016,NXB040
+S0735,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),8,TL017,NXB044
+S0736,Chuyên đề Kinh tế vi mô (Tập 1 - Ấn bản 2023),8,TL023,NXB034
+S0737,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2024),6,TL019,NXB049
+S0738,Cơ sở Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),12,TL001,NXB046
+S0739,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),8,TL001,NXB046
+S0740,Lý thuyết Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),9,TL021,NXB006
+S0741,Phân tích Đại số tuyến tính (Tập 3 - Ấn bản 2022),12,TL014,NXB040
+S0742,Thực hành Văn học hiện đại (Tập 1 - Ấn bản 2023),8,TL002,NXB010
+S0743,Cẩm nang Xác suất thống kê (Tập 2 - Ấn bản 2024),9,TL002,NXB024
+S0744,Ứng dụng Luật dân sự (Tập 3 - Ấn bản 2025),9,TL020,NXB018
+S0745,Thiết kế Giải tích hàm (Tập 1 - Ấn bản 2020),10,TL010,NXB033
+S0746,Cẩm nang Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),11,TL015,NXB039
+S0747,Thiết kế Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),7,TL015,NXB007
+S0748,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),14,TL007,NXB045
+S0749,Cẩm nang Marketing căn bản (Tập 2 - Ấn bản 2024),15,TL008,NXB048
+S0750,Giáo trình Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),7,TL011,NXB044
+S0751,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),13,TL016,NXB029
+S0752,Cơ sở Hệ điều hành (Tập 2 - Ấn bản 2021),5,TL023,NXB019
+S0753,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),14,TL025,NXB038
+S0754,Nhập môn Luật dân sự (Tập 1 - Ấn bản 2023),12,TL007,NXB039
+S0755,Thực hành Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),14,TL020,NXB025
+S0756,Giáo trình Nguyên lý kế toán (Tập 3 - Ấn bản 2025),7,TL009,NXB017
+S0757,Thiết kế Xác suất thống kê (Tập 1 - Ấn bản 2020),9,TL025,NXB037
+S0758,Cẩm nang Xác suất thống kê (Tập 2 - Ấn bản 2021),7,TL019,NXB003
+S0759,Lý thuyết Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),14,TL024,NXB024
+S0760,Ứng dụng Kinh tế vi mô (Tập 1 - Ấn bản 2023),5,TL001,NXB018
+S0761,Thiết kế Kinh tế vi mô (Tập 2 - Ấn bản 2024),14,TL018,NXB049
+S0762,Thiết kế Nguyên lý kế toán (Tập 3 - Ấn bản 2025),9,TL008,NXB026
+S0763,Lý thuyết Luật dân sự (Tập 1 - Ấn bản 2020),12,TL008,NXB021
+S0764,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),9,TL022,NXB011
+S0765,Chuyên đề Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),8,TL008,NXB041
+S0766,Lý thuyết Toán cao cấp (Tập 1 - Ấn bản 2023),13,TL014,NXB017
+S0767,Phân tích Luật dân sự (Tập 2 - Ấn bản 2024),5,TL024,NXB045
+S0768,Lý thuyết Toán cao cấp (Tập 3 - Ấn bản 2025),9,TL002,NXB038
+S0769,Ứng dụng Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),5,TL003,NXB021
+S0770,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2021),10,TL007,NXB004
+S0771,Chuyên đề Marketing căn bản (Tập 3 - Ấn bản 2022),14,TL003,NXB032
+S0772,Phân tích Đại số tuyến tính (Tập 1 - Ấn bản 2023),13,TL015,NXB018
+S0773,Thiết kế Mạng máy tính (Tập 2 - Ấn bản 2024),15,TL011,NXB044
+S0774,Lý thuyết Toán cao cấp (Tập 3 - Ấn bản 2025),6,TL002,NXB028
+S0775,Cơ sở Hệ điều hành (Tập 1 - Ấn bản 2020),8,TL022,NXB036
+S0776,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2021),12,TL018,NXB037
+S0777,Giáo trình Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),7,TL014,NXB044
+S0778,Cẩm nang Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),11,TL018,NXB050
+S0779,Thực hành Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),11,TL002,NXB026
+S0780,Thiết kế Nguyên lý kế toán (Tập 3 - Ấn bản 2025),6,TL004,NXB049
+S0781,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),14,TL014,NXB024
+S0782,Giáo trình Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),8,TL007,NXB010
+S0783,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),5,TL015,NXB038
+S0784,Nhập môn Đại số tuyến tính (Tập 1 - Ấn bản 2023),12,TL006,NXB049
+S0785,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2024),14,TL005,NXB008
+S0786,Lý thuyết Hệ điều hành (Tập 3 - Ấn bản 2025),14,TL020,NXB002
+S0787,Thiết kế Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),13,TL018,NXB044
+S0788,Cơ sở Nguyên lý kế toán (Tập 2 - Ấn bản 2021),5,TL011,NXB035
+S0789,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),15,TL008,NXB021
+S0790,Chuyên đề Học máy thống kê (Tập 1 - Ấn bản 2023),11,TL012,NXB027
+S0791,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),5,TL018,NXB023
+S0792,Thực hành Luật dân sự (Tập 3 - Ấn bản 2025),5,TL015,NXB032
+S0793,Cẩm nang Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),13,TL008,NXB026
+S0794,Chuyên đề Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),14,TL004,NXB007
+S0795,Phân tích Đại số tuyến tính (Tập 3 - Ấn bản 2022),14,TL021,NXB033
+S0796,Chuyên đề Quản trị học (Tập 1 - Ấn bản 2023),10,TL015,NXB017
+S0797,Cơ sở Marketing căn bản (Tập 2 - Ấn bản 2024),5,TL011,NXB008
+S0798,Lý thuyết Học máy thống kê (Tập 3 - Ấn bản 2025),11,TL001,NXB042
+S0799,Nhập môn Quản trị học (Tập 1 - Ấn bản 2020),7,TL002,NXB017
+S0800,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2021),14,TL008,NXB048
+S0801,Phân tích Marketing căn bản (Tập 3 - Ấn bản 2022),8,TL016,NXB042
+S0802,Chuyên đề Toán cao cấp (Tập 1 - Ấn bản 2023),8,TL001,NXB047
+S0803,Ứng dụng Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),12,TL003,NXB048
+S0804,Lý thuyết Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),5,TL018,NXB018
+S0805,Nhập môn Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),12,TL016,NXB036
+S0806,Cẩm nang Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),13,TL021,NXB039
+S0807,Chuyên đề Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),15,TL020,NXB044
+S0808,Thiết kế Marketing căn bản (Tập 1 - Ấn bản 2023),11,TL020,NXB023
+S0809,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),5,TL013,NXB012
+S0810,Thiết kế Marketing căn bản (Tập 3 - Ấn bản 2025),11,TL020,NXB023
+S0811,Ứng dụng Học máy thống kê (Tập 1 - Ấn bản 2020),10,TL004,NXB033
+S0812,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),9,TL004,NXB028
+S0813,Nhập môn Kinh tế vi mô (Tập 3 - Ấn bản 2022),9,TL022,NXB044
+S0814,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),5,TL002,NXB023
+S0815,Nhập môn Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),10,TL013,NXB007
+S0816,Cẩm nang Marketing căn bản (Tập 3 - Ấn bản 2025),8,TL013,NXB047
+S0817,Giáo trình Toán cao cấp (Tập 1 - Ấn bản 2020),5,TL020,NXB002
+S0818,Lý thuyết Văn học hiện đại (Tập 2 - Ấn bản 2021),12,TL007,NXB001
+S0819,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2022),12,TL007,NXB004
+S0820,Chuyên đề Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),15,TL017,NXB008
+S0821,Thiết kế Marketing căn bản (Tập 2 - Ấn bản 2024),8,TL010,NXB049
+S0822,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),11,TL012,NXB029
+S0823,Ứng dụng Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),7,TL025,NXB018
+S0824,Nhập môn Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),12,TL023,NXB037
+S0825,Chuyên đề Toán cao cấp (Tập 3 - Ấn bản 2022),11,TL022,NXB031
+S0826,Chuyên đề Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),9,TL016,NXB006
+S0827,Nhập môn Hệ điều hành (Tập 2 - Ấn bản 2024),9,TL002,NXB044
+S0828,Nhập môn Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),13,TL022,NXB024
+S0829,Cẩm nang Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),10,TL021,NXB048
+S0830,Chuyên đề Hệ điều hành (Tập 2 - Ấn bản 2021),10,TL009,NXB041
+S0831,Phân tích Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),6,TL012,NXB015
+S0832,Chuyên đề Hệ điều hành (Tập 1 - Ấn bản 2023),15,TL017,NXB040
+S0833,Phân tích Quản trị học (Tập 2 - Ấn bản 2024),9,TL016,NXB012
+S0834,Cẩm nang Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),8,TL005,NXB046
+S0835,Giáo trình Marketing căn bản (Tập 1 - Ấn bản 2020),14,TL019,NXB049
+S0836,Thiết kế Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),7,TL025,NXB014
+S0837,Phân tích Giải tích hàm (Tập 3 - Ấn bản 2022),13,TL017,NXB027
+S0838,Giáo trình Kinh tế vi mô (Tập 1 - Ấn bản 2023),15,TL022,NXB037
+S0839,Cơ sở Hệ điều hành (Tập 2 - Ấn bản 2024),11,TL003,NXB013
+S0840,Cơ sở Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),8,TL017,NXB038
+S0841,Cẩm nang Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),13,TL015,NXB046
+S0842,Lý thuyết Hệ điều hành (Tập 2 - Ấn bản 2021),13,TL019,NXB038
+S0843,Giáo trình Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),11,TL015,NXB003
+S0844,Giáo trình Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),9,TL018,NXB016
+S0845,Ứng dụng Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),13,TL012,NXB012
+S0846,Thực hành Toán cao cấp (Tập 3 - Ấn bản 2025),11,TL012,NXB014
+S0847,Cẩm nang Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),13,TL024,NXB034
+S0848,Cơ sở Tiếng Đức B1 (Tập 2 - Ấn bản 2021),15,TL003,NXB050
+S0849,Cơ sở Văn học hiện đại (Tập 3 - Ấn bản 2022),7,TL011,NXB031
+S0850,Chuyên đề Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),15,TL023,NXB039
+S0851,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2024),13,TL010,NXB005
+S0852,Nhập môn Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),5,TL022,NXB012
+S0853,Thiết kế Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),9,TL015,NXB026
+S0854,Chuyên đề Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),6,TL023,NXB017
+S0855,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),5,TL011,NXB044
+S0856,Cơ sở Quản trị học (Tập 1 - Ấn bản 2023),7,TL023,NXB011
+S0857,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),11,TL001,NXB033
+S0858,Lý thuyết Đại số tuyến tính (Tập 3 - Ấn bản 2025),7,TL020,NXB041
+S0859,Thiết kế Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),14,TL004,NXB040
+S0860,Nhập môn Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),14,TL021,NXB046
+S0861,Thực hành Học máy thống kê (Tập 3 - Ấn bản 2022),15,TL021,NXB004
+S0862,Cẩm nang Quản trị học (Tập 1 - Ấn bản 2023),13,TL008,NXB032
+S0863,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2024),7,TL020,NXB031
+S0864,Lý thuyết Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),15,TL013,NXB011
+S0865,Giáo trình Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),10,TL017,NXB017
+S0866,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2021),6,TL015,NXB027
+S0867,Thiết kế Quản trị học (Tập 3 - Ấn bản 2022),12,TL021,NXB008
+S0868,Chuyên đề Giải tích hàm (Tập 1 - Ấn bản 2023),14,TL001,NXB021
+S0869,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),9,TL003,NXB033
+S0870,Giáo trình Văn học hiện đại (Tập 3 - Ấn bản 2025),6,TL024,NXB050
+S0871,Cẩm nang Mạng máy tính (Tập 1 - Ấn bản 2020),11,TL021,NXB005
+S0872,Cơ sở Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),7,TL023,NXB032
+S0873,Chuyên đề Xác suất thống kê (Tập 3 - Ấn bản 2022),9,TL017,NXB025
+S0874,Chuyên đề Hệ điều hành (Tập 1 - Ấn bản 2023),15,TL022,NXB008
+S0875,Phân tích Văn học hiện đại (Tập 2 - Ấn bản 2024),13,TL024,NXB027
+S0876,Ứng dụng Luật dân sự (Tập 3 - Ấn bản 2025),5,TL022,NXB026
+S0877,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2020),6,TL004,NXB040
+S0878,Cơ sở Marketing căn bản (Tập 2 - Ấn bản 2021),9,TL008,NXB029
+S0879,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2022),8,TL015,NXB009
+S0880,Cẩm nang Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),5,TL008,NXB018
+S0881,Nhập môn Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),11,TL014,NXB007
+S0882,Thực hành Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),13,TL006,NXB042
+S0883,Chuyên đề Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),5,TL024,NXB021
+S0884,Thiết kế Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),12,TL022,NXB016
+S0885,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),13,TL015,NXB003
+S0886,Nhập môn Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),6,TL020,NXB032
+S0887,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),5,TL022,NXB010
+S0888,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),10,TL009,NXB032
+S0889,Phân tích Quản trị học (Tập 1 - Ấn bản 2020),11,TL024,NXB008
+S0890,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2021),6,TL023,NXB032
+S0891,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),9,TL005,NXB050
+S0892,Nhập môn Luật dân sự (Tập 1 - Ấn bản 2023),9,TL013,NXB004
+S0893,Giáo trình Luật dân sự (Tập 2 - Ấn bản 2024),11,TL007,NXB029
+S0894,Cơ sở Nguyên lý kế toán (Tập 3 - Ấn bản 2025),15,TL017,NXB012
+S0895,Ứng dụng Mạng máy tính (Tập 1 - Ấn bản 2020),5,TL008,NXB037
+S0896,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),14,TL005,NXB036
+S0897,Thiết kế Hệ điều hành (Tập 3 - Ấn bản 2022),12,TL023,NXB019
+S0898,Thiết kế Toán cao cấp (Tập 1 - Ấn bản 2023),9,TL007,NXB037
+S0899,Thực hành Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),7,TL008,NXB047
+S0900,Thực hành Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),13,TL007,NXB031
+S0901,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),15,TL022,NXB044
+S0902,Nhập môn Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),7,TL012,NXB026
+S0903,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL006,NXB045
+S0904,Giáo trình Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),14,TL021,NXB006
+S0905,Thực hành Kinh tế vi mô (Tập 2 - Ấn bản 2024),11,TL021,NXB029
+S0906,Chuyên đề Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),14,TL004,NXB017
+S0907,Cơ sở Luật dân sự (Tập 1 - Ấn bản 2020),12,TL023,NXB020
+S0908,Giáo trình Hệ điều hành (Tập 2 - Ấn bản 2021),14,TL003,NXB042
+S0909,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),12,TL005,NXB046
+S0910,Lý thuyết Toán cao cấp (Tập 1 - Ấn bản 2023),8,TL019,NXB047
+S0911,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2024),5,TL008,NXB010
+S0912,Giáo trình Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),8,TL005,NXB006
+S0913,Lý thuyết Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),10,TL013,NXB048
+S0914,Thực hành Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),14,TL010,NXB032
+S0915,Lý thuyết Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),15,TL006,NXB002
+S0916,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2023),10,TL001,NXB010
+S0917,Phân tích Toán cao cấp (Tập 2 - Ấn bản 2024),10,TL011,NXB037
+S0918,Thiết kế Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),11,TL020,NXB027
+S0919,Thiết kế Tiếng Đức B1 (Tập 1 - Ấn bản 2020),15,TL009,NXB041
+S0920,Lý thuyết Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),5,TL016,NXB019
+S0921,Thiết kế Học máy thống kê (Tập 3 - Ấn bản 2022),14,TL015,NXB041
+S0922,Thực hành Nguyên lý kế toán (Tập 1 - Ấn bản 2023),5,TL005,NXB016
+S0923,Thiết kế Quản trị học (Tập 2 - Ấn bản 2024),11,TL015,NXB020
+S0924,Nhập môn Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),8,TL001,NXB036
+S0925,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2020),10,TL015,NXB005
+S0926,Thực hành Học máy thống kê (Tập 2 - Ấn bản 2021),10,TL004,NXB018
+S0927,Cơ sở Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),13,TL016,NXB008
+S0928,Nhập môn Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),6,TL022,NXB013
+S0929,Phân tích Mạng máy tính (Tập 2 - Ấn bản 2024),8,TL007,NXB041
+S0930,Lý thuyết Đại số tuyến tính (Tập 3 - Ấn bản 2025),8,TL023,NXB010
+S0931,Phân tích Hệ điều hành (Tập 1 - Ấn bản 2020),11,TL008,NXB036
+S0932,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),5,TL021,NXB019
+S0933,Thiết kế Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),9,TL022,NXB031
+S0934,Thiết kế Kinh tế vi mô (Tập 1 - Ấn bản 2023),15,TL002,NXB036
+S0935,Nhập môn Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),8,TL012,NXB029
+S0936,Ứng dụng Xác suất thống kê (Tập 3 - Ấn bản 2025),6,TL002,NXB045
+S0937,Cẩm nang Giải tích hàm (Tập 1 - Ấn bản 2020),9,TL014,NXB023
+S0938,Thiết kế Giải tích hàm (Tập 2 - Ấn bản 2021),13,TL019,NXB032
+S0939,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),12,TL020,NXB049
+S0940,Cẩm nang Toán cao cấp (Tập 1 - Ấn bản 2023),13,TL006,NXB011
+S0941,Phân tích Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),11,TL022,NXB002
+S0942,Nhập môn Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),14,TL019,NXB032
+S0943,Thực hành Giải tích hàm (Tập 1 - Ấn bản 2020),11,TL017,NXB005
+S0944,Chuyên đề Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),6,TL003,NXB031
+S0945,Thực hành Toán cao cấp (Tập 3 - Ấn bản 2022),7,TL020,NXB013
+S0946,Cơ sở Giải tích hàm (Tập 1 - Ấn bản 2023),15,TL025,NXB022
+S0947,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),14,TL010,NXB035
+S0948,Lý thuyết Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),12,TL024,NXB019
+S0949,Ứng dụng Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),15,TL013,NXB029
+S0950,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),6,TL020,NXB023
+S0951,Cẩm nang Giải tích hàm (Tập 3 - Ấn bản 2022),11,TL023,NXB019
+S0952,Phân tích Văn học hiện đại (Tập 1 - Ấn bản 2023),10,TL025,NXB016
+S0953,Nhập môn Học máy thống kê (Tập 2 - Ấn bản 2024),14,TL018,NXB031
+S0954,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),8,TL019,NXB016
+S0955,Giáo trình Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),15,TL017,NXB026
+S0956,Lý thuyết Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),8,TL008,NXB003
+S0957,Giáo trình Văn học hiện đại (Tập 3 - Ấn bản 2022),7,TL018,NXB023
+S0958,Chuyên đề Marketing căn bản (Tập 1 - Ấn bản 2023),10,TL007,NXB009
+S0959,Chuyên đề Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),7,TL023,NXB024
+S0960,Cẩm nang Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),13,TL011,NXB033
+S0961,Nhập môn Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),8,TL003,NXB014
+S0962,Thực hành Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),8,TL002,NXB028
+S0963,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),6,TL019,NXB024
+S0964,Phân tích Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),6,TL024,NXB043
+S0965,Ứng dụng Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),11,TL025,NXB050
+S0966,Giáo trình Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),9,TL011,NXB007
+S0967,Chuyên đề Tiếng Đức B1 (Tập 1 - Ấn bản 2020),7,TL008,NXB038
+S0968,Nhập môn Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),10,TL011,NXB044
+S0969,Phân tích Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),10,TL002,NXB025
+S0970,Chuyên đề Toán cao cấp (Tập 1 - Ấn bản 2023),5,TL012,NXB002
+S0971,Phân tích Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),7,TL009,NXB045
+S0972,Nhập môn Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),9,TL006,NXB001
+S0973,Chuyên đề Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),15,TL012,NXB023
+S0974,Thiết kế Kinh tế vi mô (Tập 2 - Ấn bản 2021),15,TL018,NXB047
+S0975,Cẩm nang Giải tích hàm (Tập 3 - Ấn bản 2022),11,TL025,NXB040
+S0976,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2023),8,TL005,NXB018
+S0977,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2024),12,TL022,NXB047
+S0978,Thiết kế Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),7,TL017,NXB008
+S0979,Thiết kế Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),10,TL016,NXB034
+S0980,Lý thuyết Hệ điều hành (Tập 2 - Ấn bản 2021),10,TL012,NXB043
+S0981,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2022),13,TL002,NXB008
+S0982,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),8,TL016,NXB029
+S0983,Thiết kế Mạng máy tính (Tập 2 - Ấn bản 2024),11,TL001,NXB013
+S0984,Nhập môn Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),14,TL020,NXB001
+S0985,Lý thuyết Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),5,TL002,NXB029
+S0986,Lý thuyết Kinh tế vi mô (Tập 2 - Ấn bản 2021),15,TL013,NXB050
+S0987,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),5,TL016,NXB037
+S0988,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),6,TL001,NXB001
+S0989,Phân tích Giải tích hàm (Tập 2 - Ấn bản 2024),8,TL019,NXB044
+S0990,Ứng dụng Mạng máy tính (Tập 3 - Ấn bản 2025),10,TL004,NXB005
+S0991,Phân tích Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),8,TL020,NXB048
+S0992,Cơ sở Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),10,TL003,NXB050
+S0993,Thực hành Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),6,TL002,NXB002
+S0994,Nhập môn Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),13,TL012,NXB047
+S0995,Nhập môn Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),15,TL024,NXB022
+S0996,Phân tích Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),7,TL013,NXB030
+S0997,Ứng dụng Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),11,TL018,NXB011
+S0998,Cẩm nang Mạng máy tính (Tập 2 - Ấn bản 2021),5,TL005,NXB029
+S0999,Cẩm nang Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),12,TL023,NXB042
+S1000,Chuyên đề Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2023),8,TL025,NXB003
+S1001,Ứng dụng Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),15,TL012,NXB045
+S1002,Chuyên đề Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),9,TL019,NXB013
+S1003,Phân tích Văn học hiện đại (Tập 1 - Ấn bản 2020),11,TL001,NXB003
+S1004,Cơ sở Văn học hiện đại (Tập 2 - Ấn bản 2021),7,TL009,NXB010
+S1005,Cơ sở Văn học hiện đại (Tập 3 - Ấn bản 2022),13,TL001,NXB004
+S1006,Phân tích Tiếng Đức B1 (Tập 1 - Ấn bản 2023),13,TL024,NXB014
+S1007,Cơ sở Đại số tuyến tính (Tập 2 - Ấn bản 2024),12,TL018,NXB023
+S1008,Nhập môn Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),5,TL023,NXB017
+S1009,Cẩm nang Giải tích hàm (Tập 1 - Ấn bản 2020),6,TL003,NXB001
+S1010,Cơ sở Văn học hiện đại (Tập 2 - Ấn bản 2021),6,TL006,NXB015
+S1011,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),7,TL022,NXB002
+S1012,Lý thuyết Văn học hiện đại (Tập 1 - Ấn bản 2023),6,TL004,NXB018
+S1013,Cơ sở Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),5,TL024,NXB039
+S1014,Thiết kế Tiếng Đức B1 (Tập 3 - Ấn bản 2025),15,TL012,NXB022
+S1015,Ứng dụng Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),9,TL012,NXB028
+S1016,Giáo trình Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),10,TL005,NXB030
+S1017,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL023,NXB013
+S1018,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),14,TL021,NXB003
+S1019,Lý thuyết Luật dân sự (Tập 2 - Ấn bản 2024),11,TL013,NXB003
+S1020,Thiết kế Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),6,TL012,NXB045
+S1021,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),11,TL004,NXB026
+S1022,Giáo trình Marketing căn bản (Tập 2 - Ấn bản 2021),6,TL006,NXB004
+S1023,Ứng dụng Kinh tế vi mô (Tập 3 - Ấn bản 2022),6,TL019,NXB016
+S1024,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2023),10,TL006,NXB028
+S1025,Lý thuyết Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),10,TL006,NXB008
+S1026,Ứng dụng Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),12,TL011,NXB040
+S1027,Thực hành Tiếng Đức B1 (Tập 1 - Ấn bản 2020),9,TL022,NXB016
+S1028,Thiết kế Giải tích hàm (Tập 2 - Ấn bản 2021),9,TL014,NXB031
+S1029,Lý thuyết Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),14,TL003,NXB023
+S1030,Cơ sở Marketing căn bản (Tập 1 - Ấn bản 2023),5,TL008,NXB002
+S1031,Lý thuyết Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),8,TL004,NXB009
+S1032,Ứng dụng Tiếng Đức B1 (Tập 3 - Ấn bản 2025),5,TL016,NXB027
+S1033,Cẩm nang Kinh tế vi mô (Tập 1 - Ấn bản 2020),14,TL018,NXB045
+S1034,Nhập môn Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),9,TL007,NXB022
+S1035,Ứng dụng Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),12,TL011,NXB044
+S1036,Cơ sở Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),5,TL008,NXB034
+S1037,Thực hành Toán cao cấp (Tập 2 - Ấn bản 2024),7,TL020,NXB009
+S1038,Thực hành Nguyên lý kế toán (Tập 3 - Ấn bản 2025),5,TL006,NXB033
+S1039,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),10,TL024,NXB038
+S1040,Thực hành Toán cao cấp (Tập 2 - Ấn bản 2021),14,TL016,NXB034
+S1041,Thiết kế Luật dân sự (Tập 3 - Ấn bản 2022),5,TL005,NXB035
+S1042,Cẩm nang Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),14,TL025,NXB047
+S1043,Cẩm nang Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),7,TL006,NXB026
+S1044,Phân tích Học máy thống kê (Tập 3 - Ấn bản 2025),9,TL006,NXB007
+S1045,Phân tích Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),9,TL002,NXB045
+S1046,Giáo trình Xác suất thống kê (Tập 2 - Ấn bản 2021),6,TL007,NXB048
+S1047,Cơ sở Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),7,TL009,NXB045
+S1048,Thực hành Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),13,TL015,NXB027
+S1049,Thực hành Văn học hiện đại (Tập 2 - Ấn bản 2024),5,TL021,NXB012
+S1050,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2025),5,TL014,NXB017
+S1051,Nhập môn Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),6,TL021,NXB021
+S1052,Ứng dụng Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),12,TL013,NXB043
+S1053,Lý thuyết Văn học hiện đại (Tập 3 - Ấn bản 2022),10,TL005,NXB022
+S1054,Giáo trình Quản trị học (Tập 1 - Ấn bản 2023),8,TL017,NXB026
+S1055,Ứng dụng Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),11,TL005,NXB039
+S1056,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),10,TL024,NXB013
+S1057,Giáo trình Học máy thống kê (Tập 1 - Ấn bản 2020),13,TL003,NXB042
+S1058,Thực hành Tiếng Đức B1 (Tập 2 - Ấn bản 2021),10,TL009,NXB042
+S1059,Lý thuyết Nguyên lý kế toán (Tập 3 - Ấn bản 2022),6,TL009,NXB045
+S1060,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2023),7,TL022,NXB023
+S1061,Cơ sở Hệ điều hành (Tập 2 - Ấn bản 2024),13,TL004,NXB030
+S1062,Cơ sở Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),11,TL020,NXB017
+S1063,Giáo trình Marketing căn bản (Tập 1 - Ấn bản 2020),10,TL011,NXB027
+S1064,Cơ sở Tiếng Đức B1 (Tập 2 - Ấn bản 2021),9,TL017,NXB020
+S1065,Cẩm nang Xác suất thống kê (Tập 3 - Ấn bản 2022),7,TL014,NXB007
+S1066,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),8,TL010,NXB004
+S1067,Cơ sở Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),5,TL005,NXB049
+S1068,Chuyên đề Kinh tế vi mô (Tập 3 - Ấn bản 2025),9,TL021,NXB031
+S1069,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL021,NXB030
+S1070,Cẩm nang Văn học hiện đại (Tập 2 - Ấn bản 2021),6,TL017,NXB031
+S1071,Thiết kế Quản trị học (Tập 3 - Ấn bản 2022),15,TL016,NXB004
+S1072,Phân tích Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),12,TL001,NXB018
+S1073,Giáo trình Nguyên lý kế toán (Tập 2 - Ấn bản 2024),14,TL010,NXB020
+S1074,Nhập môn Toán cao cấp (Tập 3 - Ấn bản 2025),10,TL012,NXB040
+S1075,Cẩm nang Giải tích hàm (Tập 1 - Ấn bản 2020),14,TL018,NXB040
+S1076,Cơ sở Hệ điều hành (Tập 2 - Ấn bản 2021),7,TL001,NXB048
+S1077,Lý thuyết Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),6,TL024,NXB047
+S1078,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),12,TL012,NXB050
+S1079,Nhập môn Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),8,TL020,NXB023
+S1080,Phân tích Giải tích hàm (Tập 3 - Ấn bản 2025),11,TL006,NXB038
+S1081,Cẩm nang Marketing căn bản (Tập 1 - Ấn bản 2020),11,TL008,NXB009
+S1082,Thực hành Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),14,TL014,NXB016
+S1083,Phân tích Giải tích hàm (Tập 3 - Ấn bản 2022),13,TL005,NXB021
+S1084,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),14,TL022,NXB009
+S1085,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),12,TL004,NXB025
+S1086,Cơ sở Kinh tế vi mô (Tập 3 - Ấn bản 2025),12,TL022,NXB049
+S1087,Lý thuyết Luật dân sự (Tập 1 - Ấn bản 2020),11,TL016,NXB036
+S1088,Chuyên đề Tiếng Đức B1 (Tập 2 - Ấn bản 2021),14,TL006,NXB047
+S1089,Thực hành Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),9,TL003,NXB043
+S1090,Thực hành Hệ điều hành (Tập 1 - Ấn bản 2023),13,TL004,NXB014
+S1091,Cẩm nang Tiếng Đức B1 (Tập 2 - Ấn bản 2024),15,TL022,NXB017
+S1092,Giáo trình Luật dân sự (Tập 3 - Ấn bản 2025),11,TL008,NXB028
+S1093,Phân tích Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),15,TL014,NXB045
+S1094,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),7,TL007,NXB041
+S1095,Nhập môn Học máy thống kê (Tập 3 - Ấn bản 2022),10,TL004,NXB048
+S1096,Chuyên đề Luật dân sự (Tập 1 - Ấn bản 2023),7,TL019,NXB008
+S1097,Cơ sở Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),10,TL011,NXB014
+S1098,Thực hành Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),12,TL015,NXB015
+S1099,Giáo trình Giải tích hàm (Tập 1 - Ấn bản 2020),13,TL024,NXB039
+S1100,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),6,TL016,NXB025
+S1101,Cẩm nang Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),10,TL006,NXB011
+S1102,Cẩm nang Luật dân sự (Tập 1 - Ấn bản 2023),7,TL012,NXB029
+S1103,Chuyên đề Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),11,TL008,NXB003
+S1104,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),15,TL025,NXB039
+S1105,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2020),8,TL025,NXB022
+S1106,Thiết kế Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),9,TL010,NXB037
+S1107,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),14,TL011,NXB041
+S1108,Chuyên đề Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),10,TL009,NXB020
+S1109,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),15,TL017,NXB019
+S1110,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),12,TL014,NXB013
+S1111,Chuyên đề Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),6,TL003,NXB027
+S1112,Lý thuyết Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),8,TL009,NXB019
+S1113,Chuyên đề Luật dân sự (Tập 3 - Ấn bản 2022),15,TL020,NXB016
+S1114,Giáo trình Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),8,TL018,NXB002
+S1115,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),10,TL017,NXB001
+S1116,Nhập môn Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),8,TL005,NXB003
+S1117,Cẩm nang Marketing căn bản (Tập 1 - Ấn bản 2020),15,TL020,NXB024
+S1118,Chuyên đề Xác suất thống kê (Tập 2 - Ấn bản 2021),9,TL021,NXB044
+S1119,Phân tích Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),9,TL021,NXB038
+S1120,Thực hành Hệ điều hành (Tập 1 - Ấn bản 2023),12,TL024,NXB002
+S1121,Lý thuyết Học máy thống kê (Tập 2 - Ấn bản 2024),8,TL006,NXB016
+S1122,Nhập môn Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),10,TL003,NXB029
+S1123,Chuyên đề Quản trị học (Tập 1 - Ấn bản 2020),11,TL016,NXB037
+S1124,Chuyên đề Marketing căn bản (Tập 2 - Ấn bản 2021),12,TL015,NXB044
+S1125,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2022),13,TL025,NXB004
+S1126,Ứng dụng Hệ điều hành (Tập 1 - Ấn bản 2023),14,TL008,NXB014
+S1127,Chuyên đề Toán cao cấp (Tập 2 - Ấn bản 2024),12,TL009,NXB017
+S1128,Thiết kế Xác suất thống kê (Tập 3 - Ấn bản 2025),8,TL004,NXB044
+S1129,Phân tích Toán cao cấp (Tập 1 - Ấn bản 2020),8,TL013,NXB045
+S1130,Giáo trình Văn học hiện đại (Tập 2 - Ấn bản 2021),14,TL024,NXB017
+S1131,Phân tích Toán cao cấp (Tập 3 - Ấn bản 2022),15,TL003,NXB020
+S1132,Thiết kế Marketing căn bản (Tập 1 - Ấn bản 2023),9,TL021,NXB047
+S1133,Phân tích Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL007,NXB029
+S1134,Ứng dụng Toán cao cấp (Tập 3 - Ấn bản 2025),6,TL016,NXB041
+S1135,Giáo trình Mạng máy tính (Tập 1 - Ấn bản 2020),6,TL017,NXB026
+S1136,Phân tích Quản trị học (Tập 2 - Ấn bản 2021),13,TL017,NXB042
+S1137,Cẩm nang Giải tích hàm (Tập 3 - Ấn bản 2022),12,TL019,NXB038
+S1138,Thiết kế Toán cao cấp (Tập 1 - Ấn bản 2023),10,TL020,NXB017
+S1139,Thiết kế Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),13,TL017,NXB012
+S1140,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),9,TL024,NXB028
+S1141,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),14,TL002,NXB009
+S1142,Lý thuyết Đại số tuyến tính (Tập 2 - Ấn bản 2021),5,TL005,NXB032
+S1143,Cơ sở Mạng máy tính (Tập 3 - Ấn bản 2022),12,TL016,NXB034
+S1144,Lý thuyết Kinh tế vi mô (Tập 1 - Ấn bản 2023),7,TL022,NXB016
+S1145,Phân tích Quản trị học (Tập 2 - Ấn bản 2024),13,TL011,NXB048
+S1146,Cẩm nang Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),15,TL022,NXB031
+S1147,Cẩm nang Hệ điều hành (Tập 1 - Ấn bản 2020),5,TL006,NXB027
+S1148,Chuyên đề Quản trị học (Tập 2 - Ấn bản 2021),7,TL011,NXB029
+S1149,Cơ sở Hệ điều hành (Tập 3 - Ấn bản 2022),5,TL001,NXB001
+S1150,Phân tích Luật dân sự (Tập 1 - Ấn bản 2023),5,TL019,NXB027
+S1151,Thực hành Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),10,TL003,NXB032
+S1152,Thực hành Đại số tuyến tính (Tập 3 - Ấn bản 2025),8,TL008,NXB011
+S1153,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2020),14,TL022,NXB035
+S1154,Chuyên đề Toán cao cấp (Tập 2 - Ấn bản 2021),8,TL018,NXB002
+S1155,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),9,TL013,NXB046
+S1156,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2023),7,TL001,NXB001
+S1157,Cẩm nang Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),6,TL020,NXB006
+S1158,Cơ sở Marketing căn bản (Tập 3 - Ấn bản 2025),14,TL017,NXB007
+S1159,Ứng dụng Luật dân sự (Tập 1 - Ấn bản 2020),12,TL005,NXB002
+S1160,Cẩm nang Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),15,TL012,NXB002
+S1161,Cẩm nang Xác suất thống kê (Tập 3 - Ấn bản 2022),11,TL011,NXB047
+S1162,Nhập môn Nguyên lý kế toán (Tập 1 - Ấn bản 2023),14,TL024,NXB005
+S1163,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),8,TL018,NXB013
+S1164,Cơ sở Hệ điều hành (Tập 3 - Ấn bản 2025),6,TL008,NXB019
+S1165,Cơ sở Tiếng Đức B1 (Tập 1 - Ấn bản 2020),13,TL024,NXB019
+S1166,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),12,TL022,NXB047
+S1167,Thiết kế Giải tích hàm (Tập 3 - Ấn bản 2022),8,TL024,NXB001
+S1168,Nhập môn Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),15,TL013,NXB035
+S1169,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),9,TL002,NXB018
+S1170,Cơ sở Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),14,TL023,NXB049
+S1171,Lý thuyết Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),10,TL016,NXB032
+S1172,Giáo trình Quản trị học (Tập 2 - Ấn bản 2021),8,TL012,NXB032
+S1173,Giáo trình Kinh tế vi mô (Tập 3 - Ấn bản 2022),6,TL008,NXB008
+S1174,Phân tích Luật dân sự (Tập 1 - Ấn bản 2023),9,TL004,NXB011
+S1175,Thiết kế Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL014,NXB020
+S1176,Cơ sở Nguyên lý kế toán (Tập 3 - Ấn bản 2025),5,TL009,NXB008
+S1177,Thực hành Văn học hiện đại (Tập 1 - Ấn bản 2020),11,TL011,NXB028
+S1178,Cơ sở Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),13,TL016,NXB021
+S1179,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),7,TL006,NXB038
+S1180,Lý thuyết Học máy thống kê (Tập 1 - Ấn bản 2023),10,TL012,NXB038
+S1181,Cẩm nang Quản trị học (Tập 2 - Ấn bản 2024),13,TL019,NXB006
+S1182,Cơ sở Văn học hiện đại (Tập 3 - Ấn bản 2025),15,TL016,NXB002
+S1183,Phân tích Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),8,TL013,NXB010
+S1184,Cẩm nang Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),10,TL004,NXB042
+S1185,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2022),7,TL012,NXB009
+S1186,Thiết kế Nguyên lý kế toán (Tập 1 - Ấn bản 2023),13,TL004,NXB003
+S1187,Cơ sở Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),11,TL017,NXB002
+S1188,Nhập môn Kinh tế vi mô (Tập 3 - Ấn bản 2025),11,TL014,NXB036
+S1189,Cơ sở Học máy thống kê (Tập 1 - Ấn bản 2020),8,TL017,NXB008
+S1190,Lý thuyết Kinh tế vi mô (Tập 2 - Ấn bản 2021),10,TL001,NXB009
+S1191,Ứng dụng Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),15,TL020,NXB026
+S1192,Phân tích Giải tích hàm (Tập 1 - Ấn bản 2023),15,TL001,NXB034
+S1193,Nhập môn Kinh tế vi mô (Tập 2 - Ấn bản 2024),12,TL022,NXB048
+S1194,Lý thuyết Marketing căn bản (Tập 3 - Ấn bản 2025),10,TL002,NXB030
+S1195,Cẩm nang Tiếng Đức B1 (Tập 1 - Ấn bản 2020),10,TL017,NXB038
+S1196,Thiết kế Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),8,TL023,NXB008
+S1197,Lý thuyết Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),12,TL022,NXB003
+S1198,Giáo trình Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),14,TL001,NXB011
+S1199,Giáo trình Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),12,TL012,NXB025
+S1200,Thực hành Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),13,TL013,NXB005
+S1201,Thiết kế Văn học hiện đại (Tập 1 - Ấn bản 2020),10,TL014,NXB012
+S1202,Giáo trình Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),6,TL010,NXB030
+S1203,Cơ sở Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),8,TL012,NXB027
+S1204,Cẩm nang Luật dân sự (Tập 1 - Ấn bản 2023),8,TL025,NXB043
+S1205,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),12,TL022,NXB005
+S1206,Giáo trình Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),9,TL018,NXB020
+S1207,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2020),8,TL007,NXB021
+S1208,Chuyên đề Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),12,TL019,NXB003
+S1209,Chuyên đề Học máy thống kê (Tập 3 - Ấn bản 2022),7,TL015,NXB041
+S1210,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2023),6,TL007,NXB050
+S1211,Chuyên đề Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),8,TL014,NXB044
+S1212,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),15,TL009,NXB004
+S1213,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),5,TL005,NXB024
+S1214,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2021),5,TL001,NXB007
+S1215,Nhập môn Kinh tế vi mô (Tập 3 - Ấn bản 2022),9,TL016,NXB024
+S1216,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2023),15,TL005,NXB011
+S1217,Chuyên đề Tiếng Đức B1 (Tập 2 - Ấn bản 2024),5,TL024,NXB002
+S1218,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),8,TL008,NXB044
+S1219,Ứng dụng Tiếng Đức B1 (Tập 1 - Ấn bản 2020),12,TL019,NXB041
+S1220,Cẩm nang Mạng máy tính (Tập 2 - Ấn bản 2021),12,TL020,NXB006
+S1221,Nhập môn Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),6,TL012,NXB007
+S1222,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),7,TL008,NXB038
+S1223,Chuyên đề Nguyên lý kế toán (Tập 2 - Ấn bản 2024),7,TL008,NXB018
+S1224,Ứng dụng Kinh tế vi mô (Tập 3 - Ấn bản 2025),5,TL023,NXB045
+S1225,Thực hành Toán cao cấp (Tập 1 - Ấn bản 2020),15,TL006,NXB009
+S1226,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),7,TL020,NXB028
+S1227,Nhập môn Quản trị học (Tập 3 - Ấn bản 2022),12,TL009,NXB019
+S1228,Nhập môn Tiếng Đức B1 (Tập 1 - Ấn bản 2023),10,TL002,NXB004
+S1229,Thiết kế Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),9,TL018,NXB004
+S1230,Nhập môn Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),14,TL001,NXB013
+S1231,Nhập môn Kinh tế vi mô (Tập 1 - Ấn bản 2020),13,TL011,NXB028
+S1232,Cơ sở Học máy thống kê (Tập 2 - Ấn bản 2021),11,TL015,NXB011
+S1233,Thiết kế Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),10,TL012,NXB002
+S1234,Thực hành Luật dân sự (Tập 1 - Ấn bản 2023),9,TL003,NXB006
+S1235,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),9,TL019,NXB012
+S1236,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),14,TL020,NXB040
+S1237,Cẩm nang Nguyên lý kế toán (Tập 1 - Ấn bản 2020),13,TL019,NXB037
+S1238,Lý thuyết Kinh tế vi mô (Tập 2 - Ấn bản 2021),14,TL010,NXB024
+S1239,Chuyên đề Văn học hiện đại (Tập 3 - Ấn bản 2022),10,TL016,NXB009
+S1240,Ứng dụng Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),15,TL006,NXB026
+S1241,Ứng dụng Mạng máy tính (Tập 2 - Ấn bản 2024),8,TL009,NXB004
+S1242,Cơ sở Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),8,TL008,NXB041
+S1243,Lý thuyết Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),8,TL022,NXB044
+S1244,Ứng dụng Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),15,TL016,NXB004
+S1245,Giáo trình Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),10,TL008,NXB049
+S1246,Thực hành Văn học hiện đại (Tập 1 - Ấn bản 2023),5,TL024,NXB034
+S1247,Nhập môn Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),13,TL022,NXB022
+S1248,Nhập môn Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),6,TL018,NXB013
+S1249,Phân tích Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),6,TL005,NXB015
+S1250,Cơ sở Học máy thống kê (Tập 2 - Ấn bản 2021),9,TL020,NXB040
+S1251,Thiết kế Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),15,TL012,NXB038
+S1252,Chuyên đề Hệ điều hành (Tập 1 - Ấn bản 2023),8,TL006,NXB041
+S1253,Thực hành Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL002,NXB043
+S1254,Giáo trình Luật dân sự (Tập 3 - Ấn bản 2025),9,TL004,NXB044
+S1255,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2020),11,TL016,NXB002
+S1256,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),14,TL024,NXB002
+S1257,Cơ sở Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),6,TL014,NXB043
+S1258,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),10,TL017,NXB008
+S1259,Cẩm nang Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),8,TL019,NXB038
+S1260,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2025),6,TL004,NXB018
+S1261,Chuyên đề Đại số tuyến tính (Tập 1 - Ấn bản 2020),5,TL018,NXB029
+S1262,Cẩm nang Giải tích hàm (Tập 2 - Ấn bản 2021),12,TL012,NXB011
+S1263,Chuyên đề Tiếng Đức B1 (Tập 3 - Ấn bản 2022),9,TL002,NXB006
+S1264,Ứng dụng Kinh tế vi mô (Tập 1 - Ấn bản 2023),14,TL006,NXB009
+S1265,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2024),6,TL006,NXB022
+S1266,Lý thuyết Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),12,TL003,NXB046
+S1267,Phân tích Học máy thống kê (Tập 1 - Ấn bản 2020),7,TL008,NXB025
+S1268,Phân tích Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),11,TL012,NXB031
+S1269,Cơ sở Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),6,TL003,NXB021
+S1270,Cẩm nang Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),11,TL002,NXB038
+S1271,Ứng dụng Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),8,TL021,NXB019
+S1272,Phân tích Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),14,TL023,NXB010
+S1273,Lý thuyết Quản trị học (Tập 1 - Ấn bản 2020),5,TL001,NXB046
+S1274,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2021),9,TL018,NXB037
+S1275,Ứng dụng Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),8,TL018,NXB012
+S1276,Lý thuyết Marketing căn bản (Tập 1 - Ấn bản 2023),12,TL008,NXB019
+S1277,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),5,TL022,NXB002
+S1278,Chuyên đề Văn học hiện đại (Tập 3 - Ấn bản 2025),6,TL014,NXB015
+S1279,Phân tích Mạng máy tính (Tập 1 - Ấn bản 2020),9,TL013,NXB038
+S1280,Thiết kế Giải tích hàm (Tập 2 - Ấn bản 2021),14,TL015,NXB008
+S1281,Lý thuyết Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),14,TL015,NXB046
+S1282,Cẩm nang Xác suất thống kê (Tập 1 - Ấn bản 2023),6,TL013,NXB035
+S1283,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2024),15,TL004,NXB038
+S1284,Thiết kế Luật dân sự (Tập 3 - Ấn bản 2025),5,TL004,NXB043
+S1285,Thực hành Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),10,TL005,NXB030
+S1286,Nhập môn Kinh tế vi mô (Tập 2 - Ấn bản 2021),14,TL003,NXB009
+S1287,Ứng dụng Luật dân sự (Tập 3 - Ấn bản 2022),8,TL012,NXB030
+S1288,Ứng dụng Tiếng Đức B1 (Tập 1 - Ấn bản 2023),9,TL020,NXB049
+S1289,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),7,TL012,NXB019
+S1290,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),14,TL020,NXB029
+S1291,Giáo trình Luật dân sự (Tập 1 - Ấn bản 2020),10,TL007,NXB002
+S1292,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2021),8,TL007,NXB028
+S1293,Ứng dụng Xác suất thống kê (Tập 3 - Ấn bản 2022),10,TL001,NXB008
+S1294,Nhập môn Tiếng Đức B1 (Tập 1 - Ấn bản 2023),9,TL012,NXB025
+S1295,Ứng dụng Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),15,TL003,NXB010
+S1296,Thiết kế Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),6,TL015,NXB022
+S1297,Nhập môn Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),8,TL009,NXB035
+S1298,Thiết kế Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),6,TL022,NXB042
+S1299,Giáo trình Đại số tuyến tính (Tập 3 - Ấn bản 2022),9,TL022,NXB024
+S1300,Lý thuyết Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),7,TL020,NXB026
+S1301,Thực hành Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),10,TL009,NXB031
+S1302,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),15,TL014,NXB023
+S1303,Nhập môn Hệ điều hành (Tập 1 - Ấn bản 2020),9,TL003,NXB002
+S1304,Giáo trình Đại số tuyến tính (Tập 2 - Ấn bản 2021),6,TL008,NXB039
+S1305,Ứng dụng Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),14,TL006,NXB033
+S1306,Phân tích Marketing căn bản (Tập 1 - Ấn bản 2023),15,TL012,NXB024
+S1307,Phân tích Đại số tuyến tính (Tập 2 - Ấn bản 2024),12,TL002,NXB012
+S1308,Nhập môn Mạng máy tính (Tập 3 - Ấn bản 2025),10,TL003,NXB037
+S1309,Chuyên đề Xác suất thống kê (Tập 1 - Ấn bản 2020),13,TL014,NXB009
+S1310,Chuyên đề Mạng máy tính (Tập 2 - Ấn bản 2021),7,TL017,NXB044
+S1311,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2022),15,TL003,NXB043
+S1312,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),8,TL004,NXB044
+S1313,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),15,TL015,NXB003
+S1314,Chuyên đề Học máy thống kê (Tập 3 - Ấn bản 2025),12,TL022,NXB044
+S1315,Chuyên đề Hệ điều hành (Tập 1 - Ấn bản 2020),11,TL007,NXB023
+S1316,Cẩm nang Quản trị học (Tập 2 - Ấn bản 2021),12,TL019,NXB024
+S1317,Ứng dụng Tiếng Đức B1 (Tập 3 - Ấn bản 2022),13,TL014,NXB033
+S1318,Phân tích Kinh tế vi mô (Tập 1 - Ấn bản 2023),12,TL016,NXB030
+S1319,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2024),12,TL013,NXB038
+S1320,Cơ sở Học máy thống kê (Tập 3 - Ấn bản 2025),10,TL023,NXB043
+S1321,Giáo trình Hệ điều hành (Tập 1 - Ấn bản 2020),15,TL020,NXB002
+S1322,Nhập môn Xác suất thống kê (Tập 2 - Ấn bản 2021),6,TL017,NXB040
+S1323,Chuyên đề Tiếng Đức B1 (Tập 3 - Ấn bản 2022),11,TL017,NXB022
+S1324,Thiết kế Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),8,TL024,NXB011
+S1325,Giáo trình Quản trị học (Tập 2 - Ấn bản 2024),7,TL010,NXB012
+S1326,Thực hành Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),8,TL007,NXB019
+S1327,Thực hành Marketing căn bản (Tập 1 - Ấn bản 2020),8,TL020,NXB020
+S1328,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),7,TL017,NXB009
+S1329,Cơ sở Toán cao cấp (Tập 3 - Ấn bản 2022),13,TL022,NXB043
+S1330,Ứng dụng Tiếng Đức B1 (Tập 1 - Ấn bản 2023),7,TL012,NXB018
+S1331,Thiết kế Đại số tuyến tính (Tập 2 - Ấn bản 2024),6,TL011,NXB041
+S1332,Ứng dụng Toán cao cấp (Tập 3 - Ấn bản 2025),5,TL010,NXB047
+S1333,Cơ sở Xác suất thống kê (Tập 1 - Ấn bản 2020),15,TL023,NXB018
+S1334,Giáo trình Đại số tuyến tính (Tập 2 - Ấn bản 2021),5,TL022,NXB040
+S1335,Nhập môn Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),9,TL022,NXB036
+S1336,Chuyên đề Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),9,TL008,NXB027
+S1337,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),13,TL015,NXB013
+S1338,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2025),8,TL022,NXB047
+S1339,Ứng dụng Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),9,TL018,NXB008
+S1340,Thực hành Quản trị học (Tập 2 - Ấn bản 2021),10,TL023,NXB048
+S1341,Thực hành Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),14,TL013,NXB043
+S1342,Cơ sở Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),11,TL016,NXB023
+S1343,Giáo trình Đại số tuyến tính (Tập 2 - Ấn bản 2024),13,TL013,NXB013
+S1344,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL004,NXB007
+S1345,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),5,TL011,NXB050
+S1346,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2021),12,TL019,NXB040
+S1347,Thiết kế Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),6,TL008,NXB002
+S1348,Cẩm nang Luật dân sự (Tập 1 - Ấn bản 2023),13,TL010,NXB003
+S1349,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),15,TL012,NXB042
+S1350,Cơ sở Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),11,TL021,NXB039
+S1351,Cơ sở Tiếng Đức B1 (Tập 1 - Ấn bản 2020),11,TL020,NXB023
+S1352,Phân tích Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),14,TL011,NXB007
+S1353,Giáo trình Toán cao cấp (Tập 3 - Ấn bản 2022),14,TL020,NXB004
+S1354,Phân tích Mạng máy tính (Tập 1 - Ấn bản 2023),9,TL021,NXB008
+S1355,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2024),12,TL004,NXB032
+S1356,Cơ sở Luật dân sự (Tập 3 - Ấn bản 2025),14,TL019,NXB019
+S1357,Giáo trình Toán cao cấp (Tập 1 - Ấn bản 2020),5,TL020,NXB012
+S1358,Thiết kế Học máy thống kê (Tập 2 - Ấn bản 2021),7,TL010,NXB010
+S1359,Chuyên đề Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),13,TL015,NXB014
+S1360,Lý thuyết Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),5,TL013,NXB027
+S1361,Thiết kế Quản trị học (Tập 2 - Ấn bản 2024),15,TL013,NXB044
+S1362,Cơ sở Quản trị học (Tập 3 - Ấn bản 2025),12,TL021,NXB021
+S1363,Cẩm nang Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),10,TL018,NXB020
+S1364,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2021),14,TL007,NXB004
+S1365,Cơ sở Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),9,TL014,NXB019
+S1366,Cẩm nang Nguyên lý kế toán (Tập 1 - Ấn bản 2023),10,TL005,NXB029
+S1367,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),15,TL009,NXB007
+S1368,Chuyên đề Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),9,TL022,NXB033
+S1369,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2020),13,TL017,NXB008
+S1370,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2021),6,TL025,NXB011
+S1371,Cẩm nang Quản trị học (Tập 3 - Ấn bản 2022),14,TL005,NXB033
+S1372,Thiết kế Đại số tuyến tính (Tập 1 - Ấn bản 2023),10,TL016,NXB025
+S1373,Cơ sở Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),8,TL009,NXB033
+S1374,Ứng dụng Tiếng Đức B1 (Tập 3 - Ấn bản 2025),7,TL017,NXB036
+S1375,Thực hành Mạng máy tính (Tập 1 - Ấn bản 2020),9,TL018,NXB026
+S1376,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),6,TL003,NXB036
+S1377,Chuyên đề Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),7,TL005,NXB011
+S1378,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),11,TL022,NXB030
+S1379,Ứng dụng Tiếng Đức B1 (Tập 2 - Ấn bản 2024),5,TL021,NXB033
+S1380,Cẩm nang Nguyên lý kế toán (Tập 3 - Ấn bản 2025),6,TL017,NXB010
+S1381,Lý thuyết Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),7,TL020,NXB029
+S1382,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2021),14,TL022,NXB025
+S1383,Phân tích Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL004,NXB032
+S1384,Thiết kế Kinh tế vi mô (Tập 1 - Ấn bản 2023),8,TL004,NXB004
+S1385,Thiết kế Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),12,TL021,NXB039
+S1386,Thiết kế Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),12,TL024,NXB034
+S1387,Nhập môn Giải tích hàm (Tập 1 - Ấn bản 2020),5,TL021,NXB022
+S1388,Cơ sở Luật dân sự (Tập 2 - Ấn bản 2021),9,TL007,NXB013
+S1389,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),5,TL008,NXB036
+S1390,Giáo trình Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),11,TL022,NXB006
+S1391,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),8,TL022,NXB017
+S1392,Cẩm nang Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),12,TL002,NXB026
+S1393,Thiết kế Đại số tuyến tính (Tập 1 - Ấn bản 2020),12,TL010,NXB024
+S1394,Phân tích Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),13,TL005,NXB009
+S1395,Giáo trình Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),15,TL017,NXB002
+S1396,Cơ sở Mạng máy tính (Tập 1 - Ấn bản 2023),10,TL025,NXB020
+S1397,Cơ sở Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),11,TL007,NXB027
+S1398,Thực hành Tiếng Đức B1 (Tập 3 - Ấn bản 2025),11,TL002,NXB006
+S1399,Chuyên đề Quản trị học (Tập 1 - Ấn bản 2020),9,TL006,NXB050
+S1400,Chuyên đề Quản trị học (Tập 2 - Ấn bản 2021),11,TL010,NXB027
+S1401,Giáo trình Quản trị học (Tập 3 - Ấn bản 2022),13,TL009,NXB024
+S1402,Ứng dụng Mạng máy tính (Tập 1 - Ấn bản 2023),15,TL005,NXB015
+S1403,Chuyên đề Mạng máy tính (Tập 2 - Ấn bản 2024),8,TL003,NXB048
+S1404,Giáo trình Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),6,TL011,NXB033
+S1405,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),12,TL010,NXB042
+S1406,Cơ sở Kinh tế vi mô (Tập 2 - Ấn bản 2021),11,TL016,NXB010
+S1407,Ứng dụng Đại số tuyến tính (Tập 3 - Ấn bản 2022),10,TL020,NXB021
+S1408,Cẩm nang Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),11,TL019,NXB006
+S1409,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),7,TL001,NXB030
+S1410,Cẩm nang Kinh tế vi mô (Tập 3 - Ấn bản 2025),10,TL011,NXB023
+S1411,Chuyên đề Học máy thống kê (Tập 1 - Ấn bản 2020),14,TL015,NXB036
+S1412,Thiết kế Quản trị học (Tập 2 - Ấn bản 2021),11,TL007,NXB046
+S1413,Thực hành Học máy thống kê (Tập 3 - Ấn bản 2022),11,TL008,NXB049
+S1414,Ứng dụng Hệ điều hành (Tập 1 - Ấn bản 2023),9,TL016,NXB003
+S1415,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),7,TL018,NXB026
+S1416,Giáo trình Luật dân sự (Tập 3 - Ấn bản 2025),6,TL024,NXB034
+S1417,Giáo trình Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),11,TL025,NXB030
+S1418,Giáo trình Mạng máy tính (Tập 2 - Ấn bản 2021),8,TL023,NXB018
+S1419,Thiết kế Học máy thống kê (Tập 3 - Ấn bản 2022),6,TL011,NXB017
+S1420,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),12,TL001,NXB045
+S1421,Chuyên đề Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),6,TL016,NXB042
+S1422,Ứng dụng Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),10,TL004,NXB021
+S1423,Cẩm nang Tiếng Đức B1 (Tập 1 - Ấn bản 2020),8,TL023,NXB024
+S1424,Thiết kế Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),13,TL006,NXB004
+S1425,Cơ sở Toán cao cấp (Tập 3 - Ấn bản 2022),9,TL011,NXB049
+S1426,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),8,TL024,NXB048
+S1427,Nhập môn Toán cao cấp (Tập 2 - Ấn bản 2024),12,TL006,NXB025
+S1428,Phân tích Nguyên lý kế toán (Tập 3 - Ấn bản 2025),7,TL010,NXB024
+S1429,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),13,TL006,NXB046
+S1430,Nhập môn Đại số tuyến tính (Tập 2 - Ấn bản 2021),12,TL010,NXB027
+S1431,Chuyên đề Xác suất thống kê (Tập 3 - Ấn bản 2022),12,TL022,NXB031
+S1432,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),14,TL023,NXB047
+S1433,Giáo trình Mạng máy tính (Tập 2 - Ấn bản 2024),9,TL005,NXB035
+S1434,Giáo trình Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),5,TL009,NXB020
+S1435,Phân tích Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),15,TL007,NXB016
+S1436,Thực hành Đại số tuyến tính (Tập 2 - Ấn bản 2021),14,TL017,NXB031
+S1437,Nhập môn Hệ điều hành (Tập 3 - Ấn bản 2022),13,TL012,NXB007
+S1438,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),6,TL025,NXB018
+S1439,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2024),5,TL011,NXB008
+S1440,Giáo trình Văn học hiện đại (Tập 3 - Ấn bản 2025),10,TL006,NXB027
+S1441,Cơ sở Văn học hiện đại (Tập 1 - Ấn bản 2020),5,TL024,NXB014
+S1442,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2021),14,TL025,NXB018
+S1443,Cẩm nang Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),14,TL011,NXB001
+S1444,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2023),14,TL011,NXB031
+S1445,Cơ sở Quản trị học (Tập 2 - Ấn bản 2024),11,TL014,NXB020
+S1446,Cẩm nang Hệ điều hành (Tập 3 - Ấn bản 2025),11,TL016,NXB006
+S1447,Lý thuyết Học máy thống kê (Tập 1 - Ấn bản 2020),5,TL002,NXB045
+S1448,Thiết kế Xác suất thống kê (Tập 2 - Ấn bản 2021),14,TL002,NXB001
+S1449,Cẩm nang Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),9,TL005,NXB019
+S1450,Chuyên đề Mạng máy tính (Tập 1 - Ấn bản 2023),7,TL014,NXB039
+S1451,Ứng dụng Đại số tuyến tính (Tập 2 - Ấn bản 2024),15,TL021,NXB027
+S1452,Thiết kế Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),6,TL010,NXB016
+S1453,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2020),15,TL010,NXB014
+S1454,Cẩm nang Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),9,TL018,NXB034
+S1455,Thiết kế Quản trị học (Tập 3 - Ấn bản 2022),9,TL020,NXB007
+S1456,Thiết kế Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),6,TL009,NXB020
+S1457,Giáo trình Hệ điều hành (Tập 2 - Ấn bản 2024),10,TL004,NXB031
+S1458,Thực hành Đại số tuyến tính (Tập 3 - Ấn bản 2025),11,TL017,NXB022
+S1459,Cẩm nang Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),5,TL021,NXB020
+S1460,Thực hành Văn học hiện đại (Tập 2 - Ấn bản 2021),7,TL002,NXB015
+S1461,Ứng dụng Văn học hiện đại (Tập 3 - Ấn bản 2022),8,TL014,NXB025
+S1462,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),6,TL022,NXB046
+S1463,Cơ sở Giải tích hàm (Tập 2 - Ấn bản 2024),14,TL001,NXB001
+S1464,Ứng dụng Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),15,TL023,NXB017
+S1465,Cẩm nang Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),9,TL007,NXB016
+S1466,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),8,TL004,NXB037
+S1467,Chuyên đề Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),15,TL009,NXB021
+S1468,Thực hành Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),6,TL003,NXB027
+S1469,Cẩm nang Tiếng Đức B1 (Tập 2 - Ấn bản 2024),15,TL005,NXB035
+S1470,Nhập môn Toán cao cấp (Tập 3 - Ấn bản 2025),5,TL021,NXB024
+S1471,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2020),12,TL024,NXB002
+S1472,Thực hành Giải tích hàm (Tập 2 - Ấn bản 2021),6,TL010,NXB046
+S1473,Cẩm nang Đại số tuyến tính (Tập 3 - Ấn bản 2022),8,TL010,NXB025
+S1474,Thiết kế Quản trị học (Tập 1 - Ấn bản 2023),14,TL004,NXB019
+S1475,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),9,TL017,NXB045
+S1476,Giáo trình Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),6,TL021,NXB013
+S1477,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2020),14,TL017,NXB029
+S1478,Thực hành Văn học hiện đại (Tập 2 - Ấn bản 2021),13,TL019,NXB032
+S1479,Lý thuyết Nguyên lý kế toán (Tập 3 - Ấn bản 2022),6,TL006,NXB006
+S1480,Cơ sở Tiếng Đức B1 (Tập 1 - Ấn bản 2023),10,TL001,NXB009
+S1481,Thiết kế Luật dân sự (Tập 2 - Ấn bản 2024),11,TL014,NXB001
+S1482,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),10,TL013,NXB024
+S1483,Giáo trình Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),15,TL003,NXB010
+S1484,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2021),15,TL023,NXB035
+S1485,Ứng dụng Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),8,TL002,NXB006
+S1486,Thiết kế Hệ điều hành (Tập 1 - Ấn bản 2023),5,TL022,NXB048
+S1487,Lý thuyết Quản trị học (Tập 2 - Ấn bản 2024),6,TL007,NXB020
+S1488,Ứng dụng Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),14,TL012,NXB038
+S1489,Giáo trình Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),14,TL002,NXB012
+S1490,Chuyên đề Đại số tuyến tính (Tập 2 - Ấn bản 2021),10,TL011,NXB003
+S1491,Ứng dụng Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),12,TL016,NXB018
+S1492,Cơ sở Toán cao cấp (Tập 1 - Ấn bản 2023),7,TL005,NXB021
+S1493,Lý thuyết Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),11,TL017,NXB035
+S1494,Cẩm nang Xác suất thống kê (Tập 3 - Ấn bản 2025),13,TL003,NXB037
+S1495,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),8,TL014,NXB019
+S1496,Cơ sở Marketing căn bản (Tập 2 - Ấn bản 2021),15,TL016,NXB025
+S1497,Thực hành Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),11,TL017,NXB018
+S1498,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2023),11,TL019,NXB040
+S1499,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),14,TL004,NXB030
+S1500,Cơ sở Mạng máy tính (Tập 3 - Ấn bản 2025),13,TL021,NXB042
+S1501,Chuyên đề Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),7,TL020,NXB042
+S1502,Thực hành Marketing căn bản (Tập 2 - Ấn bản 2021),15,TL020,NXB034
+S1503,Giáo trình Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),5,TL025,NXB010
+S1504,Thực hành Văn học hiện đại (Tập 1 - Ấn bản 2023),12,TL025,NXB022
+S1505,Chuyên đề Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),8,TL009,NXB050
+S1506,Phân tích Marketing căn bản (Tập 3 - Ấn bản 2025),6,TL011,NXB004
+S1507,Thiết kế Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),9,TL005,NXB003
+S1508,Phân tích Giải tích hàm (Tập 2 - Ấn bản 2021),8,TL011,NXB049
+S1509,Phân tích Nguyên lý kế toán (Tập 3 - Ấn bản 2022),5,TL013,NXB049
+S1510,Nhập môn Tài chính doanh nghiệp (Tập 1 - Ấn bản 2023),11,TL021,NXB028
+S1511,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2024),8,TL002,NXB022
+S1512,Nhập môn Nguyên lý kế toán (Tập 3 - Ấn bản 2025),12,TL022,NXB012
+S1513,Thực hành Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),13,TL002,NXB049
+S1514,Cẩm nang Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),12,TL010,NXB013
+S1515,Thực hành Toán cao cấp (Tập 3 - Ấn bản 2022),5,TL013,NXB041
+S1516,Thiết kế Nguyên lý kế toán (Tập 1 - Ấn bản 2023),12,TL005,NXB033
+S1517,Ứng dụng Xác suất thống kê (Tập 2 - Ấn bản 2024),9,TL011,NXB047
+S1518,Lý thuyết Văn học hiện đại (Tập 3 - Ấn bản 2025),5,TL015,NXB019
+S1519,Cẩm nang Xác suất thống kê (Tập 1 - Ấn bản 2020),13,TL005,NXB041
+S1520,Ứng dụng Kinh tế vi mô (Tập 2 - Ấn bản 2021),13,TL020,NXB017
+S1521,Lý thuyết Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),11,TL005,NXB047
+S1522,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2023),11,TL007,NXB034
+S1523,Giáo trình Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),15,TL010,NXB004
+S1524,Ứng dụng Đại số tuyến tính (Tập 3 - Ấn bản 2025),5,TL002,NXB039
+S1525,Lý thuyết Xác suất thống kê (Tập 1 - Ấn bản 2020),13,TL001,NXB008
+S1526,Chuyên đề Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),5,TL020,NXB033
+S1527,Cẩm nang Mạng máy tính (Tập 3 - Ấn bản 2022),11,TL023,NXB001
+S1528,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),13,TL001,NXB005
+S1529,Ứng dụng Xác suất thống kê (Tập 2 - Ấn bản 2024),13,TL004,NXB032
+S1530,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),9,TL015,NXB040
+S1531,Thiết kế Kinh tế vi mô (Tập 1 - Ấn bản 2020),10,TL015,NXB001
+S1532,Giáo trình Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),6,TL006,NXB035
+S1533,Cơ sở Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),6,TL006,NXB022
+S1534,Chuyên đề Giải tích hàm (Tập 1 - Ấn bản 2023),14,TL001,NXB029
+S1535,Thiết kế Mạng máy tính (Tập 2 - Ấn bản 2024),13,TL007,NXB017
+S1536,Nhập môn Mạng máy tính (Tập 3 - Ấn bản 2025),5,TL005,NXB030
+S1537,Lý thuyết Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),14,TL022,NXB035
+S1538,Thiết kế Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),9,TL017,NXB001
+S1539,Ứng dụng Kinh tế vi mô (Tập 3 - Ấn bản 2022),11,TL007,NXB004
+S1540,Chuyên đề Marketing căn bản (Tập 1 - Ấn bản 2023),14,TL004,NXB009
+S1541,Cẩm nang Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),10,TL003,NXB045
+S1542,Ứng dụng Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL012,NXB032
+S1543,Chuyên đề Xác suất thống kê (Tập 1 - Ấn bản 2020),10,TL015,NXB005
+S1544,Lý thuyết Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),12,TL020,NXB014
+S1545,Phân tích Quản trị học (Tập 3 - Ấn bản 2022),11,TL009,NXB026
+S1546,Phân tích Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),9,TL021,NXB023
+S1547,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2024),14,TL012,NXB046
+S1548,Nhập môn Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),6,TL005,NXB022
+S1549,Thực hành Toán cao cấp (Tập 1 - Ấn bản 2020),14,TL008,NXB027
+S1550,Giáo trình Kinh tế vi mô (Tập 2 - Ấn bản 2021),10,TL015,NXB025
+S1551,Thiết kế Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),14,TL007,NXB036
+S1552,Lý thuyết Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),9,TL019,NXB004
+S1553,Phân tích Văn học hiện đại (Tập 2 - Ấn bản 2024),8,TL013,NXB032
+S1554,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),14,TL001,NXB009
+S1555,Cẩm nang Luật dân sự (Tập 1 - Ấn bản 2020),15,TL011,NXB002
+S1556,Cẩm nang Xác suất thống kê (Tập 2 - Ấn bản 2021),9,TL013,NXB042
+S1557,Lý thuyết Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),13,TL002,NXB050
+S1558,Lý thuyết Kinh tế vi mô (Tập 1 - Ấn bản 2023),6,TL019,NXB039
+S1559,Nhập môn Đại số tuyến tính (Tập 2 - Ấn bản 2024),10,TL011,NXB046
+S1560,Nhập môn Kinh tế vi mô (Tập 3 - Ấn bản 2025),15,TL001,NXB025
+S1561,Lý thuyết Đại số tuyến tính (Tập 1 - Ấn bản 2020),13,TL001,NXB047
+S1562,Cẩm nang Marketing căn bản (Tập 2 - Ấn bản 2021),14,TL008,NXB010
+S1563,Nhập môn Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),9,TL013,NXB037
+S1564,Giáo trình Marketing căn bản (Tập 1 - Ấn bản 2023),15,TL008,NXB025
+S1565,Thiết kế Luật dân sự (Tập 2 - Ấn bản 2024),10,TL002,NXB040
+S1566,Phân tích Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),14,TL008,NXB029
+S1567,Nhập môn Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),8,TL014,NXB037
+S1568,Nhập môn Marketing căn bản (Tập 2 - Ấn bản 2021),9,TL002,NXB005
+S1569,Cơ sở Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),12,TL013,NXB014
+S1570,Chuyên đề Xác suất thống kê (Tập 1 - Ấn bản 2023),5,TL005,NXB033
+S1571,Thiết kế Tiếng Đức B1 (Tập 2 - Ấn bản 2024),5,TL001,NXB027
+S1572,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),14,TL009,NXB005
+S1573,Cơ sở Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),8,TL020,NXB044
+S1574,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),14,TL010,NXB015
+S1575,Thực hành Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),7,TL011,NXB003
+S1576,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2023),9,TL018,NXB001
+S1577,Ứng dụng Xác suất thống kê (Tập 2 - Ấn bản 2024),15,TL017,NXB024
+S1578,Nhập môn Xác suất thống kê (Tập 3 - Ấn bản 2025),14,TL006,NXB012
+S1579,Phân tích Toán cao cấp (Tập 1 - Ấn bản 2020),12,TL011,NXB045
+S1580,Cẩm nang Văn học hiện đại (Tập 2 - Ấn bản 2021),5,TL024,NXB014
+S1581,Ứng dụng Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),9,TL004,NXB042
+S1582,Chuyên đề Marketing căn bản (Tập 1 - Ấn bản 2023),9,TL001,NXB020
+S1583,Cơ sở Mạng máy tính (Tập 2 - Ấn bản 2024),6,TL001,NXB014
+S1584,Thiết kế Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),9,TL022,NXB014
+S1585,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2020),12,TL018,NXB045
+S1586,Lý thuyết Hệ điều hành (Tập 2 - Ấn bản 2021),14,TL005,NXB035
+S1587,Lý thuyết Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),11,TL016,NXB019
+S1588,Thực hành Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),6,TL002,NXB020
+S1589,Thiết kế Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),10,TL009,NXB042
+S1590,Cơ sở Xác suất thống kê (Tập 3 - Ấn bản 2025),14,TL002,NXB044
+S1591,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2020),15,TL005,NXB023
+S1592,Lý thuyết Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),15,TL020,NXB034
+S1593,Thiết kế Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),5,TL017,NXB001
+S1594,Thực hành Nguyên lý kế toán (Tập 1 - Ấn bản 2023),14,TL025,NXB004
+S1595,Ứng dụng Đại số tuyến tính (Tập 2 - Ấn bản 2024),14,TL019,NXB040
+S1596,Nhập môn Học máy thống kê (Tập 3 - Ấn bản 2025),7,TL010,NXB017
+S1597,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),15,TL008,NXB026
+S1598,Thiết kế Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),15,TL020,NXB014
+S1599,Ứng dụng Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),10,TL011,NXB046
+S1600,Phân tích Học máy thống kê (Tập 1 - Ấn bản 2023),13,TL013,NXB032
+S1601,Thiết kế Toán cao cấp (Tập 2 - Ấn bản 2024),5,TL013,NXB036
+S1602,Giáo trình Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL009,NXB020
+S1603,Cơ sở Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),6,TL005,NXB016
+S1604,Cơ sở Giải tích hàm (Tập 2 - Ấn bản 2021),13,TL018,NXB019
+S1605,Thiết kế Giải tích hàm (Tập 3 - Ấn bản 2022),6,TL008,NXB045
+S1606,Cơ sở Hệ điều hành (Tập 1 - Ấn bản 2023),7,TL020,NXB039
+S1607,Ứng dụng Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),6,TL014,NXB024
+S1608,Giáo trình Học máy thống kê (Tập 3 - Ấn bản 2025),15,TL002,NXB014
+S1609,Cơ sở Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),8,TL022,NXB029
+S1610,Nhập môn Đại số tuyến tính (Tập 2 - Ấn bản 2021),8,TL016,NXB042
+S1611,Thiết kế Đại số tuyến tính (Tập 3 - Ấn bản 2022),14,TL001,NXB014
+S1612,Giáo trình Mạng máy tính (Tập 1 - Ấn bản 2023),5,TL024,NXB011
+S1613,Nhập môn Marketing căn bản (Tập 2 - Ấn bản 2024),12,TL025,NXB011
+S1614,Giáo trình Kinh tế vi mô (Tập 3 - Ấn bản 2025),9,TL023,NXB047
+S1615,Thiết kế Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),12,TL013,NXB040
+S1616,Lý thuyết Kinh tế vi mô (Tập 2 - Ấn bản 2021),10,TL025,NXB024
+S1617,Giáo trình Xác suất thống kê (Tập 3 - Ấn bản 2022),6,TL018,NXB022
+S1618,Ứng dụng Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),11,TL001,NXB049
+S1619,Thực hành Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),14,TL007,NXB021
+S1620,Cẩm nang Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),13,TL004,NXB006
+S1621,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2020),11,TL010,NXB014
+S1622,Cẩm nang Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),15,TL008,NXB009
+S1623,Chuyên đề Quản trị học (Tập 3 - Ấn bản 2022),9,TL003,NXB035
+S1624,Cơ sở Marketing căn bản (Tập 1 - Ấn bản 2023),8,TL023,NXB044
+S1625,Phân tích Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL007,NXB036
+S1626,Lý thuyết Hệ điều hành (Tập 3 - Ấn bản 2025),12,TL025,NXB025
+S1627,Cẩm nang Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),10,TL016,NXB015
+S1628,Thiết kế Mạng máy tính (Tập 2 - Ấn bản 2021),9,TL020,NXB045
+S1629,Lý thuyết Học máy thống kê (Tập 3 - Ấn bản 2022),11,TL010,NXB028
+S1630,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2023),15,TL013,NXB050
+S1631,Nhập môn Luật dân sự (Tập 2 - Ấn bản 2024),7,TL001,NXB014
+S1632,Lý thuyết Học máy thống kê (Tập 3 - Ấn bản 2025),13,TL007,NXB013
+S1633,Lý thuyết Tiếng Đức B1 (Tập 1 - Ấn bản 2020),8,TL010,NXB041
+S1634,Chuyên đề Văn học hiện đại (Tập 2 - Ấn bản 2021),8,TL012,NXB031
+S1635,Phân tích Toán cao cấp (Tập 3 - Ấn bản 2022),12,TL014,NXB005
+S1636,Chuyên đề Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),10,TL022,NXB019
+S1637,Lý thuyết Đại số tuyến tính (Tập 2 - Ấn bản 2024),15,TL011,NXB008
+S1638,Chuyên đề Học máy thống kê (Tập 3 - Ấn bản 2025),5,TL017,NXB013
+S1639,Phân tích Mạng máy tính (Tập 1 - Ấn bản 2020),6,TL009,NXB041
+S1640,Cơ sở Xác suất thống kê (Tập 2 - Ấn bản 2021),13,TL008,NXB017
+S1641,Nhập môn Mạng máy tính (Tập 3 - Ấn bản 2022),10,TL010,NXB032
+S1642,Ứng dụng Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),11,TL004,NXB005
+S1643,Thực hành Hệ điều hành (Tập 2 - Ấn bản 2024),15,TL005,NXB009
+S1644,Lý thuyết Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),13,TL024,NXB043
+S1645,Lý thuyết Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),7,TL018,NXB034
+S1646,Thực hành Tiếng Đức B1 (Tập 2 - Ấn bản 2021),9,TL006,NXB045
+S1647,Phân tích Giải tích hàm (Tập 3 - Ấn bản 2022),9,TL010,NXB001
+S1648,Thực hành Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),14,TL018,NXB040
+S1649,Thực hành Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),11,TL011,NXB015
+S1650,Cơ sở Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),6,TL024,NXB032
+S1651,Nhập môn Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),8,TL005,NXB034
+S1652,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),15,TL003,NXB035
+S1653,Thực hành Học máy thống kê (Tập 3 - Ấn bản 2022),8,TL018,NXB049
+S1654,Giáo trình Văn học hiện đại (Tập 1 - Ấn bản 2023),12,TL004,NXB050
+S1655,Nhập môn Tiếng Đức B1 (Tập 2 - Ấn bản 2024),14,TL008,NXB028
+S1656,Nhập môn Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),7,TL017,NXB017
+S1657,Giáo trình Quản trị học (Tập 1 - Ấn bản 2020),6,TL010,NXB046
+S1658,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),13,TL019,NXB011
+S1659,Cẩm nang Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),15,TL001,NXB023
+S1660,Chuyên đề Marketing căn bản (Tập 1 - Ấn bản 2023),8,TL002,NXB026
+S1661,Nhập môn Học máy thống kê (Tập 2 - Ấn bản 2024),13,TL011,NXB046
+S1662,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),10,TL015,NXB005
+S1663,Thiết kế Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),5,TL023,NXB026
+S1664,Phân tích Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),15,TL001,NXB006
+S1665,Lý thuyết Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),7,TL009,NXB043
+S1666,Ứng dụng Học máy thống kê (Tập 1 - Ấn bản 2023),11,TL008,NXB034
+S1667,Nhập môn Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),13,TL001,NXB042
+S1668,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),12,TL010,NXB013
+S1669,Chuyên đề Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),9,TL017,NXB025
+S1670,Cẩm nang Marketing căn bản (Tập 2 - Ấn bản 2021),12,TL018,NXB002
+S1671,Thiết kế Toán cao cấp (Tập 3 - Ấn bản 2022),6,TL016,NXB014
+S1672,Thiết kế Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),7,TL002,NXB017
+S1673,Chuyên đề Mạng máy tính (Tập 2 - Ấn bản 2024),12,TL022,NXB041
+S1674,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),13,TL017,NXB040
+S1675,Cẩm nang Luật dân sự (Tập 1 - Ấn bản 2020),14,TL004,NXB040
+S1676,Thiết kế Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),12,TL007,NXB039
+S1677,Nhập môn Luật dân sự (Tập 3 - Ấn bản 2022),8,TL009,NXB025
+S1678,Chuyên đề Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),10,TL003,NXB027
+S1679,Cơ sở Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),15,TL020,NXB048
+S1680,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),9,TL021,NXB024
+S1681,Nhập môn Học máy thống kê (Tập 1 - Ấn bản 2020),8,TL005,NXB049
+S1682,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2021),13,TL018,NXB033
+S1683,Thiết kế Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),14,TL021,NXB027
+S1684,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2023),7,TL017,NXB045
+S1685,Nhập môn Hệ điều hành (Tập 2 - Ấn bản 2024),5,TL007,NXB031
+S1686,Thực hành Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2025),11,TL014,NXB048
+S1687,Cơ sở Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),14,TL015,NXB038
+S1688,Thực hành Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),12,TL021,NXB015
+S1689,Cẩm nang Marketing căn bản (Tập 3 - Ấn bản 2022),15,TL022,NXB044
+S1690,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2023),7,TL014,NXB040
+S1691,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2024),7,TL009,NXB001
+S1692,Lý thuyết Marketing căn bản (Tập 3 - Ấn bản 2025),10,TL016,NXB011
+S1693,Ứng dụng Học máy thống kê (Tập 1 - Ấn bản 2020),6,TL019,NXB015
+S1694,Lý thuyết Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),10,TL001,NXB033
+S1695,Chuyên đề Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),9,TL008,NXB048
+S1696,Cơ sở Hệ điều hành (Tập 1 - Ấn bản 2023),11,TL018,NXB032
+S1697,Chuyên đề Luật dân sự (Tập 2 - Ấn bản 2024),13,TL002,NXB025
+S1698,Nhập môn Đại số tuyến tính (Tập 3 - Ấn bản 2025),13,TL004,NXB039
+S1699,Chuyên đề Văn học hiện đại (Tập 1 - Ấn bản 2020),5,TL021,NXB033
+S1700,Chuyên đề Học máy thống kê (Tập 2 - Ấn bản 2021),11,TL001,NXB029
+S1701,Cẩm nang Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),7,TL019,NXB034
+S1702,Giáo trình Đại số tuyến tính (Tập 1 - Ấn bản 2023),8,TL011,NXB008
+S1703,Nhập môn Hệ điều hành (Tập 2 - Ấn bản 2024),6,TL024,NXB011
+S1704,Phân tích Mạng máy tính (Tập 3 - Ấn bản 2025),5,TL006,NXB013
+S1705,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2020),14,TL019,NXB005
+S1706,Phân tích Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),7,TL014,NXB050
+S1707,Cẩm nang Luật dân sự (Tập 3 - Ấn bản 2022),14,TL023,NXB019
+S1708,Phân tích Đại số tuyến tính (Tập 1 - Ấn bản 2023),13,TL022,NXB021
+S1709,Thiết kế Marketing căn bản (Tập 2 - Ấn bản 2024),5,TL021,NXB003
+S1710,Chuyên đề Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),7,TL024,NXB026
+S1711,Chuyên đề Nguyên lý kế toán (Tập 1 - Ấn bản 2020),15,TL024,NXB033
+S1712,Lý thuyết Nguyên lý kế toán (Tập 2 - Ấn bản 2021),9,TL019,NXB030
+S1713,Cẩm nang Học máy thống kê (Tập 3 - Ấn bản 2022),7,TL024,NXB022
+S1714,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2023),8,TL025,NXB005
+S1715,Giáo trình Xử lý ngôn ngữ tự nhiên (Tập 2 - Ấn bản 2024),8,TL013,NXB019
+S1716,Phân tích Tiếng Đức B1 (Tập 3 - Ấn bản 2025),5,TL012,NXB009
+S1717,Chuyên đề Nguyên lý kế toán (Tập 1 - Ấn bản 2020),10,TL010,NXB024
+S1718,Phân tích Xác suất thống kê (Tập 2 - Ấn bản 2021),15,TL019,NXB039
+S1719,Nhập môn Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),11,TL011,NXB012
+S1720,Chuyên đề Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),11,TL024,NXB046
+S1721,Nhập môn Giải tích hàm (Tập 2 - Ấn bản 2024),10,TL024,NXB048
+S1722,Cẩm nang Mạng máy tính (Tập 3 - Ấn bản 2025),11,TL012,NXB045
+S1723,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2020),7,TL007,NXB027
+S1724,Ứng dụng Marketing căn bản (Tập 2 - Ấn bản 2021),9,TL008,NXB050
+S1725,Phân tích Giải tích hàm (Tập 3 - Ấn bản 2022),11,TL017,NXB042
+S1726,Lý thuyết Học máy thống kê (Tập 1 - Ấn bản 2023),14,TL003,NXB021
+S1727,Cẩm nang Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),9,TL006,NXB038
+S1728,Lý thuyết Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),14,TL012,NXB035
+S1729,Cẩm nang Kỹ thuật lập trình Python (Tập 1 - Ấn bản 2020),6,TL015,NXB032
+S1730,Lý thuyết Mạng máy tính (Tập 2 - Ấn bản 2021),10,TL023,NXB036
+S1731,Chuyên đề Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),11,TL007,NXB033
+S1732,Chuyên đề Hệ điều hành (Tập 1 - Ấn bản 2023),15,TL006,NXB043
+S1733,Ứng dụng Quản trị học (Tập 2 - Ấn bản 2024),6,TL012,NXB017
+S1734,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2025),14,TL012,NXB005
+S1735,Phân tích Quản trị học (Tập 1 - Ấn bản 2020),12,TL004,NXB044
+S1736,Giáo trình Luật dân sự (Tập 2 - Ấn bản 2021),9,TL021,NXB020
+S1737,Ứng dụng Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),15,TL009,NXB023
+S1738,Cẩm nang Đại số tuyến tính (Tập 1 - Ấn bản 2023),12,TL017,NXB039
+S1739,Ứng dụng Tiếng Đức B1 (Tập 2 - Ấn bản 2024),7,TL002,NXB004
+S1740,Nhập môn Văn học hiện đại (Tập 3 - Ấn bản 2025),6,TL005,NXB026
+S1741,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),11,TL021,NXB030
+S1742,Chuyên đề Xác suất thống kê (Tập 2 - Ấn bản 2021),9,TL023,NXB048
+S1743,Cẩm nang Quản trị học (Tập 3 - Ấn bản 2022),9,TL024,NXB047
+S1744,Phân tích Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),12,TL010,NXB046
+S1745,Nhập môn Kinh tế vi mô (Tập 2 - Ấn bản 2024),13,TL006,NXB029
+S1746,Nhập môn Tiếng Đức B1 (Tập 3 - Ấn bản 2025),12,TL006,NXB034
+S1747,Nhập môn Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),14,TL021,NXB010
+S1748,Phân tích Toán cao cấp (Tập 2 - Ấn bản 2021),6,TL005,NXB020
+S1749,Cơ sở Kinh tế vĩ mô (Tập 3 - Ấn bản 2022),14,TL008,NXB024
+S1750,Cẩm nang Triết học Mác - Lênin (Tập 1 - Ấn bản 2023),15,TL021,NXB034
+S1751,Nhập môn Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),11,TL022,NXB037
+S1752,Thực hành Mạng máy tính (Tập 3 - Ấn bản 2025),15,TL003,NXB013
+S1753,Ứng dụng Mạng máy tính (Tập 1 - Ấn bản 2020),9,TL014,NXB023
+S1754,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),11,TL005,NXB010
+S1755,Nhập môn Marketing căn bản (Tập 3 - Ấn bản 2022),7,TL015,NXB022
+S1756,Chuyên đề Quản trị học (Tập 1 - Ấn bản 2023),8,TL009,NXB045
+S1757,Nhập môn Tiếng Đức B1 (Tập 2 - Ấn bản 2024),11,TL015,NXB014
+S1758,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2025),6,TL019,NXB025
+S1759,Chuyên đề Đại số tuyến tính (Tập 1 - Ấn bản 2020),6,TL016,NXB018
+S1760,Lý thuyết Luật dân sự (Tập 2 - Ấn bản 2021),5,TL008,NXB020
+S1761,Cẩm nang Tiếng Anh học thuật (Tập 3 - Ấn bản 2022),5,TL015,NXB028
+S1762,Ứng dụng Luật dân sự (Tập 1 - Ấn bản 2023),5,TL011,NXB008
+S1763,Chuyên đề Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),10,TL023,NXB005
+S1764,Ứng dụng Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),9,TL004,NXB021
+S1765,Ứng dụng Giải tích hàm (Tập 1 - Ấn bản 2020),14,TL021,NXB020
+S1766,Cơ sở Trí tuệ nhân tạo (Tập 2 - Ấn bản 2021),12,TL024,NXB044
+S1767,Thực hành Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),9,TL010,NXB016
+S1768,Nhập môn Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),5,TL023,NXB020
+S1769,Chuyên đề Tiếng Đức B1 (Tập 2 - Ấn bản 2024),12,TL010,NXB025
+S1770,Phân tích Luật dân sự (Tập 3 - Ấn bản 2025),10,TL002,NXB007
+S1771,Nhập môn Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),12,TL008,NXB025
+S1772,Thiết kế Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),6,TL008,NXB036
+S1773,Nhập môn Kỹ thuật lập trình Python (Tập 3 - Ấn bản 2022),14,TL009,NXB010
+S1774,Phân tích Kinh tế vĩ mô (Tập 1 - Ấn bản 2023),12,TL002,NXB040
+S1775,Phân tích Đại số tuyến tính (Tập 2 - Ấn bản 2024),10,TL014,NXB016
+S1776,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2025),5,TL020,NXB004
+S1777,Ứng dụng Marketing căn bản (Tập 1 - Ấn bản 2020),5,TL002,NXB010
+S1778,Thực hành Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),14,TL004,NXB048
+S1779,Giáo trình Học máy thống kê (Tập 3 - Ấn bản 2022),9,TL003,NXB031
+S1780,Nhập môn Kinh tế vi mô (Tập 1 - Ấn bản 2023),11,TL023,NXB012
+S1781,Lý thuyết Giải tích hàm (Tập 2 - Ấn bản 2024),8,TL014,NXB020
+S1782,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),14,TL021,NXB032
+S1783,Thiết kế Đại số tuyến tính (Tập 1 - Ấn bản 2020),9,TL016,NXB002
+S1784,Cơ sở Mạng máy tính (Tập 2 - Ấn bản 2021),14,TL015,NXB011
+S1785,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2022),7,TL007,NXB020
+S1786,Cơ sở Nguyên lý kế toán (Tập 1 - Ấn bản 2023),6,TL018,NXB023
+S1787,Lý thuyết Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),6,TL020,NXB013
+S1788,Nhập môn Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),9,TL006,NXB035
+S1789,Ứng dụng Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),8,TL021,NXB017
+S1790,Nhập môn Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),6,TL016,NXB010
+S1791,Nhập môn Học máy thống kê (Tập 3 - Ấn bản 2022),9,TL011,NXB040
+S1792,Chuyên đề Trí tuệ nhân tạo (Tập 1 - Ấn bản 2023),14,TL002,NXB038
+S1793,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),13,TL023,NXB014
+S1794,Phân tích Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),12,TL002,NXB019
+S1795,Phân tích Nguyên lý kế toán (Tập 1 - Ấn bản 2020),13,TL014,NXB032
+S1796,Phân tích Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2021),13,TL009,NXB033
+S1797,Lý thuyết Kinh tế vi mô (Tập 3 - Ấn bản 2022),12,TL023,NXB043
+S1798,Thực hành Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),13,TL012,NXB025
+S1799,Lý thuyết Marketing căn bản (Tập 2 - Ấn bản 2024),8,TL003,NXB025
+S1800,Cẩm nang Kinh tế vi mô (Tập 3 - Ấn bản 2025),12,TL022,NXB014
+S1801,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),6,TL005,NXB045
+S1802,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),13,TL009,NXB044
+S1803,Cẩm nang Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),13,TL003,NXB038
+S1804,Lý thuyết Học máy thống kê (Tập 1 - Ấn bản 2023),15,TL018,NXB036
+S1805,Thiết kế Văn học hiện đại (Tập 2 - Ấn bản 2024),7,TL002,NXB024
+S1806,Ứng dụng Đại số tuyến tính (Tập 3 - Ấn bản 2025),10,TL004,NXB041
+S1807,Giáo trình Giải tích hàm (Tập 1 - Ấn bản 2020),11,TL013,NXB039
+S1808,Thiết kế Nguyên lý kế toán (Tập 2 - Ấn bản 2021),7,TL017,NXB039
+S1809,Cơ sở Toán cao cấp (Tập 3 - Ấn bản 2022),9,TL009,NXB013
+S1810,Giáo trình Xác suất thống kê (Tập 1 - Ấn bản 2023),5,TL019,NXB002
+S1811,Lý thuyết Quản trị học (Tập 2 - Ấn bản 2024),15,TL014,NXB034
+S1812,Cơ sở Marketing căn bản (Tập 3 - Ấn bản 2025),7,TL013,NXB015
+S1813,Phân tích Marketing căn bản (Tập 1 - Ấn bản 2020),12,TL005,NXB048
+S1814,Nhập môn Học máy thống kê (Tập 2 - Ấn bản 2021),7,TL018,NXB002
+S1815,Chuyên đề Toán cao cấp (Tập 3 - Ấn bản 2022),12,TL024,NXB025
+S1816,Nhập môn Marketing căn bản (Tập 1 - Ấn bản 2023),13,TL015,NXB005
+S1817,Chuyên đề Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),10,TL011,NXB034
+S1818,Giáo trình Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),11,TL019,NXB039
+S1819,Ứng dụng Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),10,TL005,NXB005
+S1820,Cẩm nang Kinh tế vi mô (Tập 2 - Ấn bản 2021),12,TL007,NXB043
+S1821,Cơ sở Toán cao cấp (Tập 3 - Ấn bản 2022),11,TL002,NXB008
+S1822,Thiết kế Quản trị học (Tập 1 - Ấn bản 2023),14,TL019,NXB049
+S1823,Chuyên đề Kinh tế vi mô (Tập 2 - Ấn bản 2024),5,TL024,NXB014
+S1824,Thực hành Kinh tế vi mô (Tập 3 - Ấn bản 2025),7,TL016,NXB029
+S1825,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),7,TL024,NXB030
+S1826,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),7,TL003,NXB037
+S1827,Lý thuyết Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),8,TL010,NXB004
+S1828,Cơ sở Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),5,TL012,NXB035
+S1829,Giáo trình Xác suất thống kê (Tập 2 - Ấn bản 2024),15,TL023,NXB007
+S1830,Thiết kế Luật dân sự (Tập 3 - Ấn bản 2025),6,TL002,NXB026
+S1831,Thiết kế Tiếng Đức B1 (Tập 1 - Ấn bản 2020),9,TL025,NXB032
+S1832,Chuyên đề Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),15,TL008,NXB043
+S1833,Thiết kế Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),10,TL025,NXB033
+S1834,Lý thuyết Quản trị học (Tập 1 - Ấn bản 2023),13,TL009,NXB024
+S1835,Chuyên đề Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),6,TL023,NXB050
+S1836,Nhập môn Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),13,TL020,NXB001
+S1837,Cẩm nang Toán cao cấp (Tập 1 - Ấn bản 2020),11,TL012,NXB029
+S1838,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),13,TL005,NXB048
+S1839,Ứng dụng Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),8,TL023,NXB045
+S1840,Ứng dụng Văn học hiện đại (Tập 1 - Ấn bản 2023),11,TL013,NXB038
+S1841,Thực hành Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),5,TL005,NXB038
+S1842,Cẩm nang Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),12,TL015,NXB021
+S1843,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2020),11,TL024,NXB023
+S1844,Thực hành Học máy thống kê (Tập 2 - Ấn bản 2021),11,TL021,NXB046
+S1845,Cơ sở Xác suất thống kê (Tập 3 - Ấn bản 2022),6,TL005,NXB005
+S1846,Nhập môn Marketing căn bản (Tập 1 - Ấn bản 2023),14,TL005,NXB030
+S1847,Giáo trình Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2024),13,TL004,NXB040
+S1848,Thiết kế Văn học hiện đại (Tập 3 - Ấn bản 2025),15,TL023,NXB018
+S1849,Giáo trình Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),12,TL016,NXB006
+S1850,Chuyên đề Quản trị học (Tập 2 - Ấn bản 2021),5,TL018,NXB005
+S1851,Thực hành Học sâu và Thị giác máy tính (Tập 3 - Ấn bản 2022),15,TL010,NXB042
+S1852,Thiết kế Toán cao cấp (Tập 1 - Ấn bản 2023),5,TL020,NXB018
+S1853,Chuyên đề Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),9,TL003,NXB013
+S1854,Lý thuyết Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),6,TL010,NXB020
+S1855,Lý thuyết Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),5,TL013,NXB038
+S1856,Thực hành Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),14,TL024,NXB021
+S1857,Thiết kế Mạng máy tính (Tập 3 - Ấn bản 2022),15,TL023,NXB004
+S1858,Ứng dụng Nguyên lý kế toán (Tập 1 - Ấn bản 2023),12,TL003,NXB013
+S1859,Lý thuyết Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),8,TL004,NXB018
+S1860,Cơ sở Tài chính doanh nghiệp (Tập 3 - Ấn bản 2025),6,TL013,NXB013
+S1861,Thực hành Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),9,TL014,NXB013
+S1862,Lý thuyết Học máy thống kê (Tập 2 - Ấn bản 2021),15,TL004,NXB039
+S1863,Lý thuyết Nguyên lý kế toán (Tập 3 - Ấn bản 2022),10,TL012,NXB037
+S1864,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 1 - Ấn bản 2023),12,TL016,NXB035
+S1865,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2024),11,TL010,NXB038
+S1866,Thực hành Tiếng Đức B1 (Tập 3 - Ấn bản 2025),11,TL023,NXB040
+S1867,Nhập môn Tiếng Anh học thuật (Tập 1 - Ấn bản 2020),5,TL024,NXB027
+S1868,Ứng dụng Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),7,TL020,NXB026
+S1869,Giáo trình Luật dân sự (Tập 3 - Ấn bản 2022),7,TL024,NXB012
+S1870,Phân tích Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2023),11,TL017,NXB002
+S1871,Cơ sở Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),6,TL025,NXB043
+S1872,Phân tích Kinh tế vi mô (Tập 3 - Ấn bản 2025),14,TL007,NXB020
+S1873,Cơ sở Toán cao cấp (Tập 1 - Ấn bản 2020),11,TL004,NXB035
+S1874,Nhập môn Hệ cơ sở dữ liệu (Tập 2 - Ấn bản 2021),13,TL024,NXB010
+S1875,Phân tích Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),5,TL012,NXB008
+S1876,Cơ sở Xác suất thống kê (Tập 1 - Ấn bản 2023),6,TL010,NXB040
+S1877,Phân tích Mạng máy tính (Tập 2 - Ấn bản 2024),15,TL002,NXB046
+S1878,Nhập môn Tiếng Đức B1 (Tập 3 - Ấn bản 2025),10,TL014,NXB036
+S1879,Chuyên đề Học sâu và Thị giác máy tính (Tập 1 - Ấn bản 2020),6,TL008,NXB031
+S1880,Thiết kế Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),6,TL010,NXB015
+S1881,Giáo trình Hệ điều hành (Tập 3 - Ấn bản 2022),9,TL006,NXB042
+S1882,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),11,TL023,NXB018
+S1883,Nhập môn Xác suất thống kê (Tập 2 - Ấn bản 2024),8,TL023,NXB015
+S1884,Thiết kế Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),10,TL002,NXB019
+S1885,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2020),7,TL014,NXB024
+S1886,Cẩm nang Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),8,TL011,NXB035
+S1887,Chuyên đề Học máy thống kê (Tập 3 - Ấn bản 2022),8,TL002,NXB002
+S1888,Ứng dụng Quản trị học (Tập 1 - Ấn bản 2023),8,TL004,NXB013
+S1889,Ứng dụng Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),5,TL006,NXB045
+S1890,Chuyên đề Triết học Mác - Lênin (Tập 3 - Ấn bản 2025),8,TL004,NXB009
+S1891,Lý thuyết Kinh tế vĩ mô (Tập 1 - Ấn bản 2020),8,TL022,NXB035
+S1892,Cơ sở Giải tích hàm (Tập 2 - Ấn bản 2021),10,TL005,NXB002
+S1893,Thiết kế Xử lý ngôn ngữ tự nhiên (Tập 3 - Ấn bản 2022),13,TL006,NXB046
+S1894,Cẩm nang Marketing căn bản (Tập 1 - Ấn bản 2023),14,TL009,NXB016
+S1895,Thiết kế Marketing căn bản (Tập 2 - Ấn bản 2024),10,TL022,NXB046
+S1896,Giáo trình Tiếng Anh học thuật (Tập 3 - Ấn bản 2025),10,TL022,NXB036
+S1897,Ứng dụng Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),11,TL016,NXB002
+S1898,Phân tích Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2021),11,TL011,NXB016
+S1899,Nhập môn Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2022),5,TL011,NXB008
+S1900,Phân tích Toán cao cấp (Tập 1 - Ấn bản 2023),12,TL024,NXB001
+S1901,Chuyên đề Tài chính doanh nghiệp (Tập 2 - Ấn bản 2024),5,TL021,NXB018
+S1902,Nhập môn Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),13,TL021,NXB041
+S1903,Nhập môn Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),8,TL010,NXB026
+S1904,Thực hành Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),13,TL001,NXB044
+S1905,Cơ sở Mạng máy tính (Tập 3 - Ấn bản 2022),12,TL022,NXB005
+S1906,Ứng dụng Luật dân sự (Tập 1 - Ấn bản 2023),13,TL017,NXB021
+S1907,Cơ sở Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2024),10,TL008,NXB035
+S1908,Thiết kế Marketing căn bản (Tập 3 - Ấn bản 2025),13,TL016,NXB040
+S1909,Cẩm nang Triết học Mác - Lênin (Tập 1 - Ấn bản 2020),8,TL025,NXB028
+S1910,Lý thuyết Giải tích hàm (Tập 2 - Ấn bản 2021),7,TL006,NXB026
+S1911,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2022),7,TL014,NXB032
+S1912,Nhập môn Luật dân sự (Tập 1 - Ấn bản 2023),12,TL025,NXB048
+S1913,Phân tích Học máy thống kê (Tập 2 - Ấn bản 2024),6,TL002,NXB050
+S1914,Thiết kế Nguyên lý kế toán (Tập 3 - Ấn bản 2025),10,TL009,NXB044
+S1915,Nhập môn Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),13,TL004,NXB044
+S1916,Nhập môn Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2021),13,TL019,NXB021
+S1917,Chuyên đề Hệ điều hành (Tập 3 - Ấn bản 2022),12,TL017,NXB004
+S1918,Phân tích Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),12,TL001,NXB042
+S1919,Cẩm nang Văn học hiện đại (Tập 2 - Ấn bản 2024),5,TL024,NXB041
+S1920,Cẩm nang Kinh tế vĩ mô (Tập 3 - Ấn bản 2025),15,TL002,NXB036
+S1921,Lý thuyết Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),11,TL017,NXB024
+S1922,Chuyên đề Kỹ thuật lập trình Python (Tập 2 - Ấn bản 2021),5,TL002,NXB033
+S1923,Thiết kế Giải tích hàm (Tập 3 - Ấn bản 2022),13,TL003,NXB005
+S1924,Chuyên đề Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),7,TL004,NXB003
+S1925,Phân tích Lịch sử văn minh thế giới (Tập 2 - Ấn bản 2024),5,TL013,NXB011
+S1926,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2025),12,TL025,NXB045
+S1927,Thực hành Đại số tuyến tính (Tập 1 - Ấn bản 2020),11,TL023,NXB032
+S1928,Giáo trình Xác suất thống kê (Tập 2 - Ấn bản 2021),6,TL012,NXB022
+S1929,Lý thuyết Tiếng Đức B1 (Tập 3 - Ấn bản 2022),11,TL021,NXB011
+S1930,Lý thuyết Mạng máy tính (Tập 1 - Ấn bản 2023),9,TL005,NXB038
+S1931,Nhập môn Tiếng Anh học thuật (Tập 2 - Ấn bản 2024),11,TL014,NXB022
+S1932,Cẩm nang Toán cao cấp (Tập 3 - Ấn bản 2025),14,TL006,NXB004
+S1933,Chuyên đề Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),11,TL001,NXB039
+S1934,Ứng dụng Kinh tế vĩ mô (Tập 2 - Ấn bản 2021),6,TL016,NXB003
+S1935,Thiết kế Triết học Mác - Lênin (Tập 3 - Ấn bản 2022),6,TL006,NXB010
+S1936,Nhập môn Xác suất thống kê (Tập 1 - Ấn bản 2023),11,TL013,NXB037
+S1937,Cơ sở Kinh tế vĩ mô (Tập 2 - Ấn bản 2024),7,TL013,NXB019
+S1938,Giáo trình Học máy thống kê (Tập 3 - Ấn bản 2025),8,TL011,NXB018
+S1939,Ứng dụng Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),11,TL016,NXB028
+S1940,Cẩm nang Tài chính doanh nghiệp (Tập 2 - Ấn bản 2021),6,TL022,NXB031
+S1941,Cơ sở Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),6,TL014,NXB017
+S1942,Chuyên đề Giải tích hàm (Tập 1 - Ấn bản 2023),13,TL011,NXB024
+S1943,Chuyên đề Marketing căn bản (Tập 2 - Ấn bản 2024),15,TL005,NXB001
+S1944,Thực hành Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),5,TL025,NXB005
+S1945,Ứng dụng Xử lý ngôn ngữ tự nhiên (Tập 1 - Ấn bản 2020),7,TL010,NXB032
+S1946,Lý thuyết Văn học hiện đại (Tập 2 - Ấn bản 2021),14,TL021,NXB017
+S1947,Lý thuyết Tài chính doanh nghiệp (Tập 3 - Ấn bản 2022),8,TL025,NXB021
+S1948,Phân tích Toán cao cấp (Tập 1 - Ấn bản 2023),9,TL015,NXB041
+S1949,Cơ sở Học sâu và Thị giác máy tính (Tập 2 - Ấn bản 2024),7,TL007,NXB043
+S1950,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),13,TL003,NXB022
+S1951,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),9,TL011,NXB039
+S1952,Thực hành Kinh tế vi mô (Tập 2 - Ấn bản 2021),11,TL009,NXB039
+S1953,Thực hành Văn học hiện đại (Tập 3 - Ấn bản 2022),15,TL010,NXB034
+S1954,Phân tích Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),11,TL023,NXB014
+S1955,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2024),15,TL004,NXB016
+S1956,Cẩm nang Hệ cơ sở dữ liệu (Tập 3 - Ấn bản 2025),13,TL025,NXB005
+S1957,Giáo trình Xác suất thống kê (Tập 1 - Ấn bản 2020),6,TL022,NXB018
+S1958,Giáo trình Học máy thống kê (Tập 2 - Ấn bản 2021),7,TL025,NXB004
+S1959,Thực hành Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2022),8,TL020,NXB044
+S1960,Ứng dụng Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2023),12,TL018,NXB028
+S1961,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2024),5,TL014,NXB045
+S1962,Cẩm nang Toán cao cấp (Tập 3 - Ấn bản 2025),13,TL009,NXB027
+S1963,Ứng dụng Đại số tuyến tính (Tập 1 - Ấn bản 2020),9,TL020,NXB006
+S1964,Thực hành Đại số tuyến tính (Tập 2 - Ấn bản 2021),8,TL016,NXB011
+S1965,Thiết kế Học máy thống kê (Tập 3 - Ấn bản 2022),12,TL002,NXB047
+S1966,Phân tích Mạng máy tính (Tập 1 - Ấn bản 2023),13,TL023,NXB021
+S1967,Lý thuyết Giải tích hàm (Tập 2 - Ấn bản 2024),7,TL007,NXB017
+S1968,Lý thuyết Luật dân sự (Tập 3 - Ấn bản 2025),8,TL005,NXB031
+S1969,Thực hành Tài chính doanh nghiệp (Tập 1 - Ấn bản 2020),5,TL021,NXB034
+S1970,Thực hành Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),7,TL024,NXB013
+S1971,Giáo trình Tiếng Đức B1 (Tập 3 - Ấn bản 2022),14,TL022,NXB023
+S1972,Lý thuyết Tiếng Anh học thuật (Tập 1 - Ấn bản 2023),9,TL017,NXB001
+S1973,Cẩm nang Luật dân sự (Tập 2 - Ấn bản 2024),12,TL011,NXB004
+S1974,Lý thuyết Quản trị học (Tập 3 - Ấn bản 2025),5,TL004,NXB030
+S1975,Thực hành Hệ cơ sở dữ liệu (Tập 1 - Ấn bản 2020),5,TL017,NXB031
+S1976,Phân tích Tiếng Anh học thuật (Tập 2 - Ấn bản 2021),7,TL021,NXB047
+S1977,Cơ sở Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),13,TL005,NXB016
+S1978,Phân tích Xác suất thống kê (Tập 1 - Ấn bản 2023),13,TL004,NXB043
+S1979,Lý thuyết Trí tuệ nhân tạo (Tập 2 - Ấn bản 2024),5,TL025,NXB003
+S1980,Giáo trình Xác suất thống kê (Tập 3 - Ấn bản 2025),8,TL024,NXB012
+S1981,Cơ sở Giải tích hàm (Tập 1 - Ấn bản 2020),12,TL010,NXB012
+S1982,Ứng dụng Học máy thống kê (Tập 2 - Ấn bản 2021),6,TL003,NXB011
+S1983,Chuyên đề Cấu trúc dữ liệu và Giải thuật (Tập 3 - Ấn bản 2022),8,TL021,NXB016
+S1984,Thiết kế Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2023),11,TL006,NXB029
+S1985,Thực hành Cấu trúc dữ liệu và Giải thuật (Tập 2 - Ấn bản 2024),11,TL021,NXB021
+S1986,Lý thuyết Lịch sử văn minh thế giới (Tập 3 - Ấn bản 2025),9,TL008,NXB045
+S1987,Cẩm nang Trí tuệ nhân tạo (Tập 1 - Ấn bản 2020),11,TL005,NXB044
+S1988,Cơ sở Quản trị học (Tập 2 - Ấn bản 2021),10,TL008,NXB042
+S1989,Cẩm nang Nguyên lý kế toán (Tập 3 - Ấn bản 2022),6,TL010,NXB043
+S1990,Lý thuyết Nguyên lý kế toán (Tập 1 - Ấn bản 2023),13,TL019,NXB050
+S1991,Thiết kế Marketing căn bản (Tập 2 - Ấn bản 2024),9,TL021,NXB005
+S1992,Thiết kế Học máy thống kê (Tập 3 - Ấn bản 2025),6,TL004,NXB013
+S1993,Phân tích Lịch sử văn minh thế giới (Tập 1 - Ấn bản 2020),10,TL006,NXB017
+S1994,Cẩm nang Triết học Mác - Lênin (Tập 2 - Ấn bản 2021),14,TL003,NXB012
+S1995,Lý thuyết Đại số tuyến tính (Tập 3 - Ấn bản 2022),9,TL004,NXB017
+S1996,Chuyên đề Toán cao cấp (Tập 1 - Ấn bản 2023),6,TL004,NXB001
+S1997,Ứng dụng Hệ điều hành (Tập 2 - Ấn bản 2024),14,TL005,NXB008
+S1998,Cẩm nang Trí tuệ nhân tạo (Tập 3 - Ấn bản 2025),14,TL015,NXB016
+S1999,Chuyên đề Mạng máy tính (Tập 1 - Ấn bản 2020),11,TL016,NXB015
+S2000,Cơ sở Toán cao cấp (Tập 2 - Ấn bản 2021),14,TL006,NXB019
